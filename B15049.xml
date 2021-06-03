@@ -1,0 +1,832 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two sermons, lately preached at Langar in the valley of Belvoir. By C.O.</title>
+            <author>Odingsells, Charles, d. 1637.</author>
+         </titleStmt>
+         <extent>Approx. 80KB of XML-encoded text transcribed from 44 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B15049</idno><idno type="EEBO-CITATION">99854565</idno>
+  <idno type="VID">178351</idno>
+  <idno type="EEBO-PROQUEST">2240934010</idno>
+  <idno type="STC">STC 18783</idno>
+  <idno type="STC">ESTC S119358</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99854565e"/>
+            <note>(EEBO-TCP ; phase 2, no. B15049)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178351)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1607:01)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two sermons, lately preached at Langar in the valley of Belvoir. By C.O.</title>
+                  <author>Odingsells, Charles, d. 1637.</author>
+               </titleStmt>
+               <extent>[8], 78 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W. Stansby, and are to be sold by Iohn Parker at the signe of the three Pidgeons in Pauls Churchyard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1620.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>C.O. = Charles Odingsells.</note>
+                  <note>"A discourse of miracles" has separate title page, dated 1619. Pagination and register are continuous.</note>
+                  <note>Another issue, with cancel title page, of the 1619 edition.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:178351:1"/>
+            <p>TWO SERMONS, lately preached at LAN<g ref="char:EOLhyphen"/>GAR in the Valley of <hi>Belvoir.</hi>
+            </p>
+            <p>By C. O.</p>
+            <q>
+               <bibl>
+                  <hi>1. COR. 13.2.</hi>
+               </bibl> Though I haue the gift of prophecying, and vnderstand all mysteries and all knowledge, yea, if I haue all faith, so that I could remoue Mountaynes, and haue no charitie, I am nothing.</q>
+            <p>LONDON Printed by <hi>W. Stansby,</hi> and are to be sold by <hi>Iohn Parker</hi> at the signe of the three Pidgeons in <hi>Pauls</hi> Churchyard. 1620.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:178351:2"/>
+            <pb facs="tcp:178351:2"/>
+            <head>
+               <hi>TO THE RIGHT Honourable EMANVEL,</hi> Lord <hi>SCROPE,</hi> Baron of <hi>BOLTON, Lord Lieutenant of</hi> the Countie of Yorke, and Presi<g ref="char:EOLhyphen"/>dent of his Maiesties Councell established in the North, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">R</seg>Ight Honorable, It was well obser<g ref="char:EOLhyphen"/>ued long agoe by that learned Father Saint <hi>Ierome,</hi> that the Scriptures consist <hi>non in le<g ref="char:EOLhyphen"/>gendo, sed in intelligendo;</hi>
+               <note place="margin">S. <hi>Ierome</hi> in his Dia<g ref="char:EOLhyphen"/>log. against the <hi>Lucife<g ref="char:EOLhyphen"/>rians.</hi>
+               </note>
+               <hi>Not in reading, but in vnderstanding.</hi> For, they are euen a pleasant Garden shut vp, an wholesome Fountayne sealed: necessarie it is that they bee opened, that they be vnsealed, otherwise, they shall be vnprofitable vnto vs. They
+<pb facs="tcp:178351:3"/> may well (saith <hi>Vincentius Lyri<g ref="char:EOLhyphen"/>nensis</hi>) receiue <hi>euidentiam,</hi>
+               <note place="margin">Vincent. Lyc. ad<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ers. Haeres</note>
+               <hi>lucem, distinctionem,</hi> they may bee ex<g ref="char:EOLhyphen"/>planed, cleered, distinguished: so long as they still retayne <hi>ple<g ref="char:EOLhyphen"/>nitudinem, integritatem, proprie<g ref="char:EOLhyphen"/>tatem; Their fulnesse, soundnesse, and proprietie.</hi> But who shall at<g ref="char:EOLhyphen"/>tempt this great worke? who shall dare to enter into the Land of <hi>Canaan,</hi> to encounter the sons of <hi>Anak?</hi> who shall take in hand to leuell the Mountaynes, and make the rough places plaine? who shall open the darke and dif<g ref="char:EOLhyphen"/>ficult passages of the diuine Ora<g ref="char:EOLhyphen"/>cles?<note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ract<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rilia <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>abri. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> Surely, not Tradesmen, not such as follow the Plough, not they which sit at the Distaffe, not meere Laikes; but such as are sanctified and called thereunto. They must doe it who haue re<g ref="char:EOLhyphen"/>ceiued Priestly Grace and Ordi<g ref="char:EOLhyphen"/>nation, as it is written: <hi>The Priests
+<pb facs="tcp:178351:3"/> lips should preserue knowledge,</hi>
+               <note place="margin">
+                  <hi>Mal.</hi> 2.7.</note>
+               <hi>and they should seeke the Law at his mouth: for he is the Messenger of the Lord of Hosts.</hi> They, I say, must doe it, who are the suc<g ref="char:EOLhyphen"/>cessors of the Apostles, vnto whom our most blessed Sauiour said, <hi>Goe, teach all Nations.</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 20.28.</note> A<g ref="char:EOLhyphen"/>mongst these, I the last, the least, and vnworthiest of many, haue, according to the measure of grace giuen to me, opened and explaned the Holy Scriptures these ten yeeres and more. And this Summer in <hi>Iune</hi> last, your Lordship being absent, in mine ordinarie course I tooke in hand, by Gods direction, to explicate two Verses of that most heauen<g ref="char:EOLhyphen"/>ly <hi>Sermon of our Lord in the Mountayne,</hi> which by all meanes I endeuoured to doe <hi>sine offensio<g ref="char:EOLhyphen"/>ne Fidei; without preiudice to the Faith,</hi>
+               <note place="margin">Fulgent. l. <hi>2.</hi> ad Mon.</note> as <hi>Fulgentius</hi> would haue
+<pb facs="tcp:178351:4"/> mee: and with <hi>Vincentius Lyri<g ref="char:EOLhyphen"/>nensis, Iuxta Catholici dogmatis regulas; According to the rules of Catholike Doctrine,</hi> which in all my labours and endeuours, peculiar to my function, I desire strictly to embrace and follow.</p>
+            <p>Hauing opened and illustrated in this wise, the sense of those two sacred Verses before mentioned, in two short Sermonarie discour<g ref="char:EOLhyphen"/>ses; I am bold to present them vnto you, my most Honorable Lord and Master, vnder whom I haue now almost these ten yeers exercised my Priestly function; vnto whom from my soule I doe wish and pray for all increase <hi>of knowledge, of vertue, of grace and peace in our Lord Iesus Christ,</hi> LANGAR, Iuly the 4. 1619.</p>
+            <closer>
+               <signed>Your Lordships most humble Chaplaine, <hi>CHARLES ODINGSELLS.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="table_of_contents">
+                  <pb facs="tcp:178351:4"/>
+                  <head>The chiefe things con<g ref="char:EOLhyphen"/>tayned in the seuerall Passages of the first SERMON.</head>
+                  <list>
+                     <item>
+                        <hi>Passage I.</hi> THe circumstance of the time.</item>
+                     <item>
+                        <hi>Passage II.</hi> The number of Hypocrites.</item>
+                     <item>
+                        <hi>Passage III.</hi> Of prophecying, and the diuers sorts thereof.</item>
+                     <item>
+                        <hi>Passage IIII.</hi> Of false Prophets.</item>
+                     <item>
+                        <hi>Passage V.</hi> How Satan foreseeth things to come.</item>
+                     <item>
+                        <hi>Passage VI.</hi> Concerning casting out of De<g ref="char:EOLhyphen"/>uils.</item>
+                     <pb facs="tcp:178351:5"/>
+                     <item>
+                        <hi>Passage VII.</hi> The first manner of casting out.</item>
+                     <item>
+                        <hi>Passage VIII.</hi> The second way of casting out Deuils.</item>
+                     <item>
+                        <hi>Passage IX.</hi> The third way to cast out euill spirits.</item>
+                     <item>
+                        <hi>Passage X.</hi> An instruction arising out of the precedent Doctrinall passages.</item>
+                  </list>
+               </div>
+               <div type="epigraph">
+                  <q>Ea quae didicisti, ita doce, vt cùm dicas nouè, non dicas noua, <bibl>Vincent. Lyrin. aduers. haeres.</bibl>
+                  </q>
+                  <q>Those things, which thou hast learned, so teach, as that in speaking after a new manner, thou speake not new things.</q>
+               </div>
+            </front>
+            <body>
+               <div n="1" type="sermon">
+                  <pb n="1" facs="tcp:178351:5"/>
+                  <head>PROPHECYING, CASTING OVT OF <hi>Deuils, &amp;c.</hi> The first Sermon.</head>
+                  <epigraph>
+                     <bibl>
+                        <hi>MAT. 7. ver. 22, 23.</hi>
+                     </bibl>
+                     <q>
+                        <p>Many will say vnto mee in that day, Lord, Lord, haue we not prophecyed in thy name? and in thy name haue cast out Deuils? and in thy name done many wonderfull workes?</p>
+                        <p>And then will I professe vnto them, I neuer knew you: Depart from me, ye that worke iniquitie.</p>
+                     </q>
+                  </epigraph>
+                  <p>
+                     <seg rend="decorInit">A</seg>T such times as our Blessed SAVIOVR was oppressed with multi<g ref="char:EOLhyphen"/>tudes of people fol<g ref="char:EOLhyphen"/>lowing him, his manner was to
+<pb n="2" facs="tcp:178351:6"/> retire himselfe into one of these three places: either into a ship, or into some solitary and desert place, or into some mountaine. Now at a certaine time, Saint <hi>Matthew</hi> the Euangelist writes,<note n="a" place="margin">
+                        <hi>Cap.</hi> 5. <hi>ver.</hi> 25.</note>
+                     <hi>There followed him great multi<g ref="char:EOLhyphen"/>tudes out of Galile, and Decapolis, and Ierusalem, and Iudea, and from beyond Iordane.</hi> And in the begin<g ref="char:EOLhyphen"/>ning of the next<note n="b" place="margin">
+                        <hi>Cap.</hi> 5. <hi>ver.</hi> 1.</note> Chapter it is sayd, <hi>When he saw the multitude, he went vp into a mountaine,</hi> and there he made that famous and excellent Sermon, called by the ancient Fathers, <hi>Sermo Domini in monte,</hi> the Sermon of our Lord in the mountaine, a part whereof are these two verses which I haue reade vnto you; wherein <hi>Christ</hi> sheweth two things: First, What will be the vaine-glorying of cer<g ref="char:EOLhyphen"/>taine Hypocrites in the last day, <hi>Manie will say vnto mee in
+<pb n="3" facs="tcp:178351:6"/> that day, Lord, Lord, &amp;c. as ver.</hi> 22.</p>
+                  <p>Secondly, Wat censure hee will giue of them:<note place="margin">The first Passage to the cir<g ref="char:EOLhyphen"/>cumstāce of the time.</note>
+                     <hi>And then I will professe vnto them, as verse</hi> 23. When as the number of Gods elect shalbe accomplished, when this generation of Christi<g ref="char:EOLhyphen"/>ans, which now groweth old and passeth away, shall haue an end, then shall the heauens being on fire be dissolued, then shal the ele<g ref="char:EOLhyphen"/>ments melt with heate, then shall be the Day of the Lord, the day of Iudgement, the last day, when the Sonne of man shall come in the clouds in the maiestie of his Father; When all kindreds and tongues shall bee gathered vnto him; and no man shall dare to contend in words or defend a lie, or contradict the truth; When all mens workes shall be reuealed, &amp; none shal intercede one for ano<g ref="char:EOLhyphen"/>ther, but al shal feare: <hi>Euen then, In
+<pb n="4" facs="tcp:178351:7"/> die illa</hi> in that day, <hi>many shall say vnto Christ, Lord, Lord, &amp;c.</hi>
+                  </p>
+                  <p n="2">
+                     <note place="margin">The se<g ref="char:EOLhyphen"/>cond pas<g ref="char:EOLhyphen"/>sage: The number of the Hy<g ref="char:EOLhyphen"/>pocrites.</note>II. The number of the right<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ous who are few, is small, in comparison of the Hypocrites and vniust who are many; there is but a litle wheate amongst a great deale of Chaffe; a little pure gold amids a great deale of dross.<note n="b" place="margin">
+                        <hi>Esd.</hi> 2.8, 3.</note>
+                     <hi>Many are created, but few shalbe saued:</hi> and our Sauiour saith,<note n="c" place="margin">
+                        <hi>Mat.</hi> 20.16.</note>
+                     <hi>Many be called, but few chosen.</hi> Of six hundred and odde thou<g ref="char:EOLhyphen"/>sands that came out of <hi>Egypt,</hi> on<g ref="char:EOLhyphen"/>ly two, <hi>Caleb</hi> and <hi>Iosuah,</hi> entred into the Land of <hi>Canaan.</hi> There are few good, few righteous, but many euil, many Hypocrites; and of these <hi>Christ</hi> sayth, <hi>Many will say vnto mee, &amp;c.</hi> And what will they say vnto <hi>Christ?</hi> They will not call him by a name of Loue, as the Elect doe, who cry Abba Father; but they will call
+<pb n="5" facs="tcp:178351:7"/> him by a name of Power, by a title of Feare, saying not once, but twice, <hi>Lord, Lord.</hi>
+                     <note place="margin">Chrysost. op. imp. s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>per Mat. hom. <hi>19.</hi>
+                     </note>
+                     <hi>Non enim semel sufficit illi dicere, Domine, quem necessitas timoris astringit,</hi> sayth Saint <hi>Chrysostom:</hi> for it is not suf<g ref="char:EOLhyphen"/>ficient for him whom necessity of feare doth enforce, to say once <hi>Lord.</hi> Therefore they will say vnto him in that day, <hi>Lord, Lord.</hi>
+                  </p>
+                  <p>Now come wee to the vaine<g ref="char:EOLhyphen"/>glorying of certaine famous Hy<g ref="char:EOLhyphen"/>pocrites, who will boast of three things: First, that they haue pro<g ref="char:EOLhyphen"/>phecyed. Secondly, that they haue cast out deuils. Thirdly, that they haue done many wonderfull workes; and all these in the name of <hi>Christ.</hi>
+                  </p>
+                  <p n="3">III.<note place="margin">The third Passage: Of Pro<g ref="char:EOLhyphen"/>phecying.</note> Men haue in all times and ages had in great reuerence and esteeme, such as were accoun<g ref="char:EOLhyphen"/>ted Prophets. But let vs not de<g ref="char:EOLhyphen"/>ceiue our selues; let the blessed
+<pb n="6" facs="tcp:178351:8"/> Apostle Saint <hi>Iohn</hi> aduise vs,<note n="d" place="margin">1. <hi>Iohn</hi> 4.1.</note>
+                     <hi>Be<g ref="char:EOLhyphen"/>loued, beleeue not euery spirit, but trie the spirits, whether they are of God: because many false pro<g ref="char:EOLhyphen"/>phets are gone out into the World.</hi> It is necessary therefore that wee distinguish of <hi>Prophecying,</hi>
+                     <note place="margin">Foure kinds of Prophesy<g ref="char:EOLhyphen"/>ing.</note> which in the holy Scriptures is vsed in foure senses. First, it is taken for reuealing things done long agoe, whereof there is no mention, no sufficient report or record: this, as Saint<note n="e" place="margin">See D. Field 5. booke of the Church, cap. 8.</note>
+                     <hi>Gregorie</hi> fitly noteth, is of as great difficultie, as to foretel things to come long before. So <hi>Moses</hi> Prophetically described the creation of the world, which was 2370. yeeres before hee was borne.<note n="f" place="margin">Perkins Chron.</note> Secondly, Prophecying is taken for reuealing things done in the present a farre off, or in secret, or things but contriued, or resolued on in the purpose of the heart:<note n="g" place="margin">2. <hi>Kings.</hi> 6.12.</note> so it is written, that <hi>Elisha</hi>
+                     <pb n="7" facs="tcp:178351:8"/> the Prophet in <hi>Israel</hi> told the king of <hi>Israel</hi> the words that the king of <hi>Syria</hi> spake in his bedchā<g ref="char:EOLhyphen"/>ber. Thirdly, Prophecying is ta<g ref="char:EOLhyphen"/>ken for reuealing things to come long before, in which sence it is cōmonly taken, because the Greek word <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> (whence the Latine word <hi>Propheta,</hi> and the English word Prophet is deriued) so sig<g ref="char:EOLhyphen"/>nifieth. And thus many prophe<g ref="char:EOLhyphen"/>sied before <hi>Christ,</hi> as <hi>Moses, Enoch, Samuel</hi> and <hi>Eliah, &amp;c.</hi> and many since <hi>Christ,</hi> as Saint <hi>Peter,</hi> Saint <hi>Paul,</hi> S. <hi>Iohn,</hi> &amp;c. Of these three precedent kinds of Prophesying I take it, it is that<note n="a" place="margin">Keck. first Theol. lib. <hi>3.</hi> cap. <hi>3.</hi>
+                     </note>
+                     <hi>Bartholomeus Keckermannus</hi> saith it is probable which many of the learneder sort doe affirme, that the gift of Pro<g ref="char:EOLhyphen"/>phecying flourished vnto the times of <hi>Iustin Martyr,</hi> who<note n="b" place="margin">Abrah. Buchol<g ref="char:EOLhyphen"/>cerin Chronol.</note> li<g ref="char:EOLhyphen"/>ued about 140. yeeres after <hi>Christ</hi> But how long the gift of Prophe<g ref="char:EOLhyphen"/>cying
+<pb n="8" facs="tcp:178351:9"/> lasted in the Church of the new Testament, it doth not, saith <hi>Keckerman,</hi> euidently e<g ref="char:EOLhyphen"/>nough appeare, out of the Histo<g ref="char:EOLhyphen"/>ries.<note n="b" place="margin">Peter Mart. loc. com. Clas. <hi>1.</hi> c. <hi>3.</hi> sect. <hi>13.</hi>
+                     </note>
+                     <hi>Peter Martyr Virmilius,</hi> lesse then an hundred yeeres a<g ref="char:EOLhyphen"/>goe, writes thus: <hi>In my iudgement it is not to be denied, but that there be yet in the Church, Prophets, but not so famous and eminent as they of old were:</hi> but this is but his priuate opinion.<note place="margin">Prophecy<g ref="char:EOLhyphen"/>ing, in the fourth sense.</note> Fourthly, Prophecying is taken for Preach<g ref="char:EOLhyphen"/>ing, or expounding the doctrine of the Prophets: so it is taken, 1. <hi>Th.</hi> 5. <hi>Despise not prophecyings. Quasi dicat, Non spernatis ver<g ref="char:EOLhyphen"/>ba Dei &amp; praedicationes:</hi> as if he should say, Despise not the Word of God &amp; preachings, saith <hi>Aquin. Exponentes enim diuinam doctri<g ref="char:EOLhyphen"/>nam, dicuntur Prophetae:</hi> for they, saith he, that expound the diuine doctrine, are called Prophets: and
+<pb n="9" facs="tcp:178351:9"/> so it is also taken in the 1. <hi>Cor.</hi> 14. where the Apostle saith, <hi>He that prophecyeth, edifieth the Church.</hi> The gift of Prophecying in this sense, is perpetual in the Church, and must not faile. Therefore in the time of the Law the Lord or<g ref="char:EOLhyphen"/>dayned and prouided, that there should be schooles of Prophets among the Iewes, as there was one in <hi>Iericho,</hi> another at <hi>Naioth</hi> in <hi>Ramah,</hi> and another at <hi>Ramoth Gilead.</hi> And now in the time of the Gospel, we haue Vniuersities and Colledges throughout <hi>Chri<g ref="char:EOLhyphen"/>stendome,</hi> to traine vp such as shal expound the doctrine of the Pro<g ref="char:EOLhyphen"/>phets; and <hi>Christ</hi> hath appointed a continual succession of Pastors and Doctors, to whom hee hath promised his gracious presence and assistance vnto the end, as it is written in the two last verses of Saint <hi>Mathew,</hi>
+                     <note n="a" place="margin">
+                        <hi>Mat.</hi> 28.19, 20.</note>
+                     <hi>Goe yee therefore
+<pb n="10" facs="tcp:178351:10"/> and teach all nations, baptizing them in the name of the Father, and of the Sonne, and of the holy Ghost.</hi>
+                  </p>
+                  <p>
+                     <hi>Teaching them to obserue all things whatsoeuer I haue comman<g ref="char:EOLhyphen"/>ded you; and lo, I am with you euen vnto the end of the World.</hi>
+                  </p>
+                  <p n="4">
+                     <note place="margin">The fourth Passage.</note>IIII. As in the time of the Law there were false prophets, who prophecied in the name of the Lord, vsing this glorious pre<g ref="char:EOLhyphen"/>face, <hi>Sic dicit Dominus,</hi> Thus saith the Lord: who neuerthelesse prophecied lyes, as<note n="*" place="margin">
+                        <hi>Ier.</hi> 5.30, 31.</note>
+                     <hi>Ieremiah</hi> saith, <hi>A wonderfull and horrible thing is committed in the Land, Prophets prophesie falsly.</hi>
+                  </p>
+                  <p>Such were those 400. who be<g ref="char:EOLhyphen"/>ing seduced by an euil spirit, enti<g ref="char:EOLhyphen"/>sed <hi>Achab</hi> the King of <hi>Israel,</hi> to go vp &amp; fight against <hi>Ramoth Gi<g ref="char:EOLhyphen"/>lead,</hi>
+                     <note place="margin">1. <hi>King.</hi> 22.6.</note> saying, <hi>Go vp: for the Lord shall deliuer it into the hand of the
+<pb n="11" facs="tcp:178351:10"/> King.</hi> Such haue not wanted in the time of the Gospel, who haue prophecyed<note n="c" place="margin">Chrys. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>p imp. super Matt. hom. <hi>19.</hi>
+                     </note>
+                     <hi>In nomine Christi,</hi> in the name of <hi>Christ,</hi> but <hi>In spiritu Diaboli,</hi> by the spirit of Satan, as S. <hi>Chrysostom</hi> speaketh. Such, I suppose, were <hi>Prisca</hi> &amp; <hi>Maximil<g ref="char:EOLhyphen"/>la,</hi> the false prophetesses (who did <hi>veras prophetias adseuerare, Vinc. Lyrin.</hi>) the followers of the blas<g ref="char:EOLhyphen"/>phemous Heretike <hi>Montanus,</hi> mentioned in<note n="d" place="margin">Euseb. Eccl. hist. l. <hi>5.</hi> c. <hi>13.</hi>
+                     </note>
+                     <hi>Eusebius.</hi> And in<g ref="char:EOLhyphen"/>deed they that professe outward<g ref="char:EOLhyphen"/>ly the name of <hi>Christ,</hi> (which is a knot combining al the Articles of the Faith, as saith Saint <hi>Augustine</hi>) may either prophecy false things, which shall neuer come to passe: or foreshew true euents with an euill intention, to seduce and draw men away from God. And such in the last Day shal say vnto <hi>Christ, Nonne prophetauimus in nomine tuo?</hi> Haue we not prophe<g ref="char:EOLhyphen"/>cyed
+<pb n="12" facs="tcp:178351:11"/> by thy Name? The gift of prophecy is not alwayes ioyned with a iustifying faith: It was not in <hi>Balaam,</hi> it was not in <hi>Saul,</hi> it was not in <hi>Caiphas,</hi> when they prophecied: for it is <hi>Gratia gratis data,</hi> a cōmon grace, cōferd som<g ref="char:EOLhyphen"/>time vpon the reprobate aswel as the Elect, vpon <hi>Saul</hi> the euil king, as well as <hi>Paul</hi> the great Apostle.</p>
+                  <p n="5">
+                     <note place="margin">The fift Passage.</note>V. Euill and vngodly men and women, may foreshew things to come, but <hi>in spiritu Diaboli,</hi> by the spirit of Satan: For, Satan foreseeth things to come two wayes: First, in their causes: Se<g ref="char:EOLhyphen"/>condly, by reuelation from God.</p>
+                  <p>The causes whereby hee fore<g ref="char:EOLhyphen"/>seeth, are either necessary, and so by Mathematicall rules hee fore<g ref="char:EOLhyphen"/>tells the opposition and coniun<g ref="char:EOLhyphen"/>ction of the Celestiall Orbes, and such like; or else they are con<g ref="char:EOLhyphen"/>tingent, which may bee so or o<g ref="char:EOLhyphen"/>therwise:
+<pb n="13" facs="tcp:178351:11"/> so he foresees Dearths, Droughts, Pestilences, Warres, Victories, Subuersions of King<g ref="char:EOLhyphen"/>domes and Common Weales, and such vncertayne euents, wherein hee is many times decei<g ref="char:EOLhyphen"/>ued. Sometimes againe he fore<g ref="char:EOLhyphen"/>telleth things to come, because God hath reuealed them vnto him as his seruant, ready to exe<g ref="char:EOLhyphen"/>cute vengeance, as is gathered out of <hi>Lactantius,</hi>
+                     <note place="margin">Lact. diuin. instit. l. <hi>2.</hi> c. <hi>17.</hi>
+                     </note> in the second Booke of his diuine Institutions, and the seuenteenth Chapter. And so it is written in<note n="a" place="margin">
+                        <hi>Iob</hi> 2.1.</note> IOB, <hi>There was a day when the sonnes of God came, to present themselues before the Lord, and Satan came also amongst them, to present him<g ref="char:EOLhyphen"/>selfe before the Lord.</hi> By this meanes the Witch of <hi>Endor</hi> v<g ref="char:EOLhyphen"/>sing Necromancy, raysed vp the Deuill in the habit of <hi>Samuel,</hi> who declared before-hand to
+<pb n="14" facs="tcp:178351:12"/> King <hi>Saul,</hi> his death, saying,<note n="b" place="margin">1. <hi>Sam.</hi> 28.19.</note>
+                     <hi>To morrow shalt thou and thy sonnes be with mee: The Lord also shall deliuer the Host of Israel into the hand of the Philistims.</hi> Sometime the Deuill foretells things, either because they are resolued on to be speedily put in execution, or alreadie do<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, but in remote pla<g ref="char:EOLhyphen"/>ces far off. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o <hi>Lactantius</hi> writes, that <hi>Castor</hi> and <hi>Pollux</hi> meeting <hi>P. Vatinius</hi> (or <hi>Vatienus,</hi> as the Orator hath it) going to <hi>Rome,</hi> told him, that <hi>Perses</hi> the King of <hi>Macedonia</hi> was taken and con<g ref="char:EOLhyphen"/>quered that day: which by let<g ref="char:EOLhyphen"/>ters was verified within a few dayes<note n="*" place="margin">Lactan. diu. institut. l. <hi>2.</hi> c. <hi>8.</hi>
+                     </note> after. And this the euill angell did by celeritie and swift<g ref="char:EOLhyphen"/>nesse of motion; for both the good and euill Angels can doe much, <hi>quoad motum localem, by locall motion,</hi> gliding presently from East to West like the light<g ref="char:EOLhyphen"/>ning.</p>
+                  <pb n="15" facs="tcp:178351:12"/>
+                  <p>Many haue pretended Religi<g ref="char:EOLhyphen"/>on, and the Name of Christ in foretelling, but haply by such meanes as I haue formerly men<g ref="char:EOLhyphen"/>tioned: and it is not vnlike but they may bee in the number of those, who will say vnto Christ in the last Day, <hi>Lord, Lord, haue we not prophecyed by thy Name?</hi> But and if wee take prophecying here, for expounding and expla<g ref="char:EOLhyphen"/>ning the Predictions of the Pro<g ref="char:EOLhyphen"/>phets: then, no doubt, as there was <hi>Balaam</hi> amongst the old Pro<g ref="char:EOLhyphen"/>phets, and <hi>Iudas</hi> amongst the twelue Apostles; so amongst ma<g ref="char:EOLhyphen"/>ny thousands, since the Ascensi<g ref="char:EOLhyphen"/>on of Christ, many perhaps haue beene, who haue taught the Do<g ref="char:EOLhyphen"/>ctrine and Faith of Christ, but haue not liued the life of Faith, haue not liued the life of the sonnes of God, haue not brought forth the fruits of the Gospell,
+<pb n="16" facs="tcp:178351:13"/>
+                     <hi>Deum praedicantes lingua, sed bla<g ref="char:EOLhyphen"/>sphemantes vita,</hi> as Saint<note n="a" place="margin">
+                        <hi>Au<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ust</hi> vpon the Psalmes.</note>
+                     <hi>Au<g ref="char:EOLhyphen"/>stin</hi> speaketh, <hi>Praysing or preach<g ref="char:EOLhyphen"/>ing God with their tongues, but blaspheming him by their wicked liues.</hi> And these are like to come to our Sauiour in the last Day, saying, <hi>Lord, Lord, haue not we prophecyed by thy Name?</hi>
+                  </p>
+                  <p n="6">
+                     <note place="margin">The sixth Passage: Os casting out deuils.</note>VI. The second thing the vain<g ref="char:EOLhyphen"/>glorious Hypocrites wil boast of, is the casting out of Deuils out of the possessed, <hi>And in thy Name cast out Deuils?</hi> Almightie God in iudging sinne, sometimes per<g ref="char:EOLhyphen"/>mitteth Satan to enter into men or women, to vexe and torment them, as appeareth in the Gospel. But because he is a God of mer<g ref="char:EOLhyphen"/>cy, he still in Iudgement euer re<g ref="char:EOLhyphen"/>membreth mercy, and so proui<g ref="char:EOLhyphen"/>deth meanes to cast out the euill and vncleane spirits, that they may no longer afflict his Crea<g ref="char:EOLhyphen"/>tures,
+<pb n="17" facs="tcp:178351:13"/> then hee in his wisedome thinketh necessary, and behooue<g ref="char:EOLhyphen"/>full for his owne Glorie, and the good of his Church.</p>
+                  <p>There are three meanes, wher<g ref="char:EOLhyphen"/>by Satan is cast out: First, <hi>Iussu, By command.</hi> Secondly, <hi>Oratio<g ref="char:EOLhyphen"/>ne &amp; ieiunio, By prayer and fa<g ref="char:EOLhyphen"/>sting.</hi> Thirdly, <hi>Consensu, By con<g ref="char:EOLhyphen"/>sent.</hi>
+                  </p>
+                  <p n="7">VII.<note place="margin">The seuēth Passage.</note> Almighty God the supreme Lord, who alone is his owne Be<g ref="char:EOLhyphen"/>ing, and the Being of all other things, as<note n="*" place="margin">Bern. de cons. ad Eng. l. <hi>5.</hi> cap. <hi>3.</hi>
+                     </note> Saint <hi>Bernard</hi> saith; by his Word created Men and Angels; yea, by his Word hee created all things, <hi>Dixit,</hi>
+                     <note place="margin">
+                        <hi>Psa.</hi> 148.5.</note>
+                     <hi>&amp; facta sunt; Hee commanded, and they were created:</hi> by the same soue<g ref="char:EOLhyphen"/>raigne power and authoritie, hee cōmandeth Deuils to enter into men, and they willingly obey; againe, hee commands them to come forth, and they cannot but
+<pb n="18" facs="tcp:178351:14"/> obey. So our Sauiour, meeting one possessed in the Synagogue at <hi>Capernaum,</hi> said vnto the vn<g ref="char:EOLhyphen"/>cleane spirit, <hi>Come out of him, Mark.</hi> 1.25.<note place="margin">
+                        <hi>Mark.</hi> 1.25.</note> And the Text saith, hee came out of him. And in the first Chapter of that Gospell, being in the countrie of the <hi>Ga<g ref="char:EOLhyphen"/>darens,</hi>
+                     <note place="margin">
+                        <hi>Mark.</hi> 5.8.</note> he commanded a Legion of Deuils to come out of a man: and they came out.</p>
+                  <p>And this power Christ Iesus did not onely exercise himselfe, but gaue it to his Apostles, <hi>Neque tantùm ipse Daemonijs imperauit, sed etiam Apostolis hoc munus e<g ref="char:EOLhyphen"/>largitus est,</hi> saith<note n="a" place="margin">Locorum com. clas. <hi>4.</hi> c. <hi>9.</hi> sect. <hi>10.</hi>
+                     </note>
+                     <hi>Peter Martyr.</hi> Thus S<seg rend="sup">t</seg>. <hi>Paul</hi> cast out a spirit of diuination out of a Maid at <hi>Thya<g ref="char:EOLhyphen"/>tira,</hi> saying to the spirit,<note n="b" place="margin">
+                        <hi>Act.</hi> 16.18</note>
+                     <hi>I com<g ref="char:EOLhyphen"/>mand thee in the Name of Iesus Christ, to come out of her: and he came out the same houre.</hi>
+                  </p>
+                  <p>Wee reade of one in the ninth
+<pb n="19" facs="tcp:178351:14"/> Chapter of Saint <hi>Lukes</hi> Gospell, the forty-ninth Verse, who nei<g ref="char:EOLhyphen"/>ther had receiued power to doe Miracles with Christs Disciples, neither had the Lord Iesus sent him, neither did he follow Christ; who notwithstanding cast out de<g ref="char:EOLhyphen"/>uils in the Name of Christ; so that the Apostles disdained and enuied at him: yet our Sauiour forbade him not: neuerthelesse, as Saint <hi>Ambrose</hi> noteth, to such our Sauiour saith in my Text,<note n="c" place="margin">Ambros. apud <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ho. Aquin. in a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>reo up. sup. Euang. in Luc. <hi>9.</hi>
+                     </note>
+                     <hi>Non noui vos, I know you not.</hi> There were also certaine vaga<g ref="char:EOLhyphen"/>bond Iewes,<note n="d" place="margin">
+                        <hi>Act.</hi> 19.13</note>
+                     <hi>who tooke vpon them to call ouer them, which had euill spirits, the Name of the Lord Iesus; saying, Wee adiure you by Iesus whom</hi> PAVL <hi>preach<g ref="char:EOLhyphen"/>eth.</hi> These vsed exorcisme, and adiured the euill spirits by the Name of Iesus, but not by the Spirit of Iesus; and therefore Sa<g ref="char:EOLhyphen"/>tan
+<pb n="20" facs="tcp:178351:15"/> preuayled against them: for<note n="e" place="margin">
+                        <hi>Act.</hi> 19.16.</note>
+                     <hi>he lept on them, and ouercame them, and preuailed against them, so that they fled out of the house naked, and wounded.</hi>
+                  </p>
+                  <p>
+                     <note place="margin">Exorcisme</note>This charging of vncleane spirits to come out of men pos<g ref="char:EOLhyphen"/>sessed, was a speciall kinde of ad<g ref="char:EOLhyphen"/>iuration or exorcisme, whereof there is no example in the old Testament: but in the Gospell was begunne by Christ himselfe, and continued in his Name by his Apostles and their Successors in the Church, vnto the time of <hi>Iustine Martyr</hi> &amp; <hi>Tertullian,</hi> and after; for<note n="f" place="margin">Ruff. hist. Eccles. l. <hi>1.</hi> cap. <hi>4.</hi>
+                     </note>
+                     <hi>Ruffinus</hi> reporteth of that holy man <hi>Paphnutius,</hi> that he did <hi>Daemones verbo tantùm fu<g ref="char:EOLhyphen"/>gare; only by word driue away De<g ref="char:EOLhyphen"/>uils.</hi> And<note n="g" place="margin">Soz. l. <hi>4.</hi> cap. <hi>15.</hi>
+                     </note>
+                     <hi>Sozomen</hi> writeth of <hi>Arsacius</hi> the <hi>Persian</hi> Confessor, that meeting a man possessed, <hi>Christum nominauit,</hi> hee but na<g ref="char:EOLhyphen"/>med
+<pb n="21" facs="tcp:178351:15"/> Christ, and the Deuill was cast out. But this miraculous and singular gift of the holy Ghost, as it seemeth to the most iudici<g ref="char:EOLhyphen"/>ous and learned, is now ceased; and so the office <hi>cum dono mira<g ref="char:EOLhyphen"/>culorum desijt: is ceased with the gift of miracles,</hi> saith<note n="h" place="margin">Bucan. loc. com. <hi>42.</hi>
+                     </note>
+                     <hi>Bucanus:</hi> which particular time of ceasing of miracles, I shall speake of here<g ref="char:EOLhyphen"/>after. As for that order of Exor<g ref="char:EOLhyphen"/>cists, which is yet retayned in the Church in some parts of Chri<g ref="char:EOLhyphen"/>stendome by a perpetual successi<g ref="char:EOLhyphen"/>on, it seemes to haue humane in<g ref="char:EOLhyphen"/>stitution, for the author and foun<g ref="char:EOLhyphen"/>der of it; superstitious custom for the nourisher and preseruer of it. For is it not, as<note n="a" place="margin">Calu. in Act. c. <hi>19.</hi>
+                     </note> M<seg rend="sup">r</seg>. <hi>Caluin</hi> writes, <hi>Inanis titulus sine effectu? a vaine and emptie title, without any pro<g ref="char:EOLhyphen"/>fitable fruit or true correspondent effect?</hi> Thus much of the first way of casting out Deuils.</p>
+                  <p n="8">
+                     <pb n="22" facs="tcp:178351:16"/>
+                     <note place="margin">The eighth Passage. The se<g ref="char:EOLhyphen"/>cond way to cast out Deuils.</note>VIII. The second way of casting out of Deuils, is by Praier and Fasting. The feruent Prayer of the faithfull is of great force and efficacie.<note n="b" place="margin">
+                        <hi>Ionah</hi> 2.2</note>
+                     <hi>Ionah</hi> the Prophet prayed, <hi>De profundo,</hi> out of the Deepe of the Sea, out of the bel<g ref="char:EOLhyphen"/>ly of Hell, or the Graue, and he was heard: and Saint<note n="c" place="margin">Aug. in Psal. <hi>2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</hi>
+                     </note>
+                     <hi>Austin</hi> saith of his Prayer, <hi>Penetrauit omnia, dirupit omnia, peruenit ad aures Dei,</hi> It pierced all, it brake tho<g ref="char:EOLhyphen"/>row all, it came to the eares of God. And the blessed Apostle Saint <hi>Iames</hi> saith, that<note n="d" place="margin">
+                        <hi>Iames</hi> 4.17, 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</note> ELIAS <hi>prayed earnestly that it might not raine: and it rained not on the Earth by the space of three yeeres, and six moneths. And hee prayed againe, and the Heauen gaue raine, and the Earth brought forth her fruit.</hi> This was a strange and miraculous effect, to restraine the Clouds that they might not giue
+<pb n="23" facs="tcp:178351:16"/> the early and the latter raine for three yeeres and six moneths, so long to make the Heauens as Brasse, and the Earth as Iron. It was admirable that the Pro<g ref="char:EOLhyphen"/>phet should open and shut the Heauens by Prayer. And why may not feruent and faithfull Prayer in the Name of <hi>Christ,</hi> be of power to eiect and cast out Deuils?<note n="e" place="margin">Sozom. Eccl. hist. lib. <hi>4.</hi> cap. <hi>17</hi>
+                     </note>
+                     <hi>Sozomen</hi> writing of <hi>Arsacius</hi> before mentioned, saith, There was a Dragon or Serpent lurking in an hole by the high-way side, who with his breath slew the Passengers, be<g ref="char:EOLhyphen"/>fore they could see him: but <hi>Ar<g ref="char:EOLhyphen"/>sacius,</hi> comming to that place, <hi>prayed:</hi> and the Serpent of his owne accord came out, and dash<g ref="char:EOLhyphen"/>ing his head twice against the Earth, killed himselfe. And why may not feruent and faithfull Prayer bee of as great force to
+<pb n="24" facs="tcp:178351:17"/> cast out the old Serpent, the vn<g ref="char:EOLhyphen"/>clean spirit? seeing it is not onely, <hi>Deo sacrificium, a sacrifice to God,</hi> but <hi>Daemonibus flagellū, a scourge to Deuils.</hi> And to put all out of doubt,<note n="f" place="margin">
+                        <hi>Mat.</hi> 17.21.</note>
+                     <hi>Christ</hi> the Truth it selfe, saith in the Gospell, There is a kinde of Deuils which goeth not out but by Prayer and Fa<g ref="char:EOLhyphen"/>sting.<note n="g" place="margin">S. <hi>Chry<g ref="char:EOLhyphen"/>sostome.</hi>
+                     </note> Fasting addeth much wis<g ref="char:EOLhyphen"/>dome, maketh a man like an Angell from Heauen, and en<g ref="char:EOLhyphen"/>countreth the incorporeall pow<g ref="char:EOLhyphen"/>ers, <hi>Sed &amp; Oratione opus <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>st quasi principaliori,</hi> but yet, saith <hi>Chrys. Prayer is necessarie as the more principall.</hi> And Fasting is auaile<g ref="char:EOLhyphen"/>able, as one of the two wings, that must make our Prayers flye vp vnto God, as Saint<note n="h" place="margin">Austin. in Psal. <hi>42.</hi>
+                     </note>
+                     <hi>Austin</hi> writes: for indeed it doth, <hi>Oratio<g ref="char:EOLhyphen"/>ni deuotionem &amp; fiduciam donare,</hi> saith Saint<note n="i" place="margin">Ber. Ser. <hi>4.</hi> de Quadr.</note> BERNARD, <hi>It makes vs more deuoute and confident.</hi>
+                     <pb n="25" facs="tcp:178351:17"/> This way of casting out Deuils <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>y Praier and Fasting, in as much <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>s it is done by ordinary meanes, may be in a true sense said to bee <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>rdinarie.</p>
+                  <p n="9">IX.<note place="margin">The ninth Passage.</note> The third way of ca<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ing out of Deuils, is <hi>consensu, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>y consent,</hi> or rather <hi>collusione, by <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ollusion.</hi> The first way was mira<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ulous, the second, though in <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ome respect extraordinary in re<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ard of the effect which is not <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>rdinary, yet is not properly mi<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>aculous. This third is altogether <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>mpious, Diabolicall, and vnlaw<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ull, and since the plentifull working of Miracles ceased, more vsuall and ordinary. For <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ome not indued with any singu<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ar gift of working Miracles, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>aue taken vpon them very im<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>eriously to adiure Deuils with <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>rieuous Comminations, implo<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ing the ayde of the Saints de<g ref="char:EOLhyphen"/>parted,
+<pb n="26" facs="tcp:178351:18"/> to driue euill spirits out of the possessed: and if the euill spirits vpon such adiuration de<g ref="char:EOLhyphen"/>part, they doe it not vnwillingly, but fayne Obedience, to establish Superstition and Idolatry. For i<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> pleaseth them, as well to possess<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> the soules of men, as to cruciate and torment their bodies.</p>
+                  <p>They make shew, as if they were afraid of certaine friuolous and ridiculous Exorcismes, and so they goe forth, but it is by conuention or compact; <hi>Quum ex pacto facile possit pati Satan, se ex corporibus eijci, vt in animi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> facilius regnet:</hi> Seing Satan can easily suffer himselfe, as<note n="k" place="margin">Beza in Mat. cap. <hi>12. 16.</hi>
+                     </note> Master <hi>Beza</hi> notes, to bee cast out of the bodies, that hee may the bette<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> rule and raigne in the minds.</p>
+                  <p>This kinde of casting ou<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Deuils was well knowne to the Iewes in the dayes of our blessed
+<pb n="27" facs="tcp:178351:18"/> Sauiour: for when as he by the finger of God had cast a Deuill out of a Dumbe man possessed; the enuious and blasphemous Pharises charged him with Ma<g ref="char:EOLhyphen"/>gicall arte and collusion, saying,<note n="l" place="margin">
+                        <hi>Mat.</hi> 9.34</note>
+                     <hi>He casteth out the Deuils through the prince of the Deuils.</hi> Such was the malice and enuie of the Pharises, as <hi>Rabanus</hi> obserueth, that they would either denie the works of Christ, or if they could not deny them, they would la<g ref="char:EOLhyphen"/>bour to peruert them by sinister interpretation; as if hee had not done them by Diuine Power, but by the helpe of the euill an<g ref="char:EOLhyphen"/>gell. This their monstrous, in<g ref="char:EOLhyphen"/>solent blasphemie, our Lord Ie<g ref="char:EOLhyphen"/>sus mightily reprooued, cleering himselfe fully of that horrible im<g ref="char:EOLhyphen"/>putatiō, as we reade in <hi>Mat.</hi> 12.25 To cast out Deuils, by consent, is proper to Satan and his Vassals,
+<pb n="28" facs="tcp:178351:19"/> who haue no iustifying Faith, no sauing Grace, no hope of eternall Life, to whom the Kingdome of Heauen doth not appertain: these the deuil vseth as his instruments, to expell his fellow-Angels, and all to this end; that Diuine Ho<g ref="char:EOLhyphen"/>nour may bee giuen to him, and hee worshipped as God: and these pretend the Name of Iesu<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> and will seeme to doe it in th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Name of Christ. But what saith Saint<note n="m" place="margin">Chrys. o<g ref="char:EOLhyphen"/>pus imp. in Mat. hom. <hi>19.</hi>
+                     </note> CHRYSOSTOME? <hi>Dae<g ref="char:EOLhyphen"/>monia autem eijciunt in nomin<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> Christi, habentes spiritum inimici<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> They cast out Deuils in the Nam<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> of Christ, hauing the spirit of th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> Enemie. Magis autem non eijciunt<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> sed eijcere videntur, colludentibu<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> sibi Daemonibus ipsis: Or rather<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </hi> saith he, <hi>they doe not cast them ou<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> but seeme so to do, the Deuils vsin<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> collusion among themselues.</hi> Th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> end is to seduce ignorant men, t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <pb n="29" facs="tcp:178351:19"/> blinde and harden the Repro<g ref="char:EOLhyphen"/>bate. These Hypocriticall Ex<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>rcists are such, as will say vnto our Lord Iesus, in the Day of Doome, <hi>Nonne in nomine tuo <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>iecimus Daemonia? Haue wee <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ot by thy Name cast out De<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ils?</hi>
+                  </p>
+                  <p n="10">X.<note place="margin">The tenth passage to applicatiō.</note> Out of the precedent <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>assages of this Sermon, we may <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>asily collect and conclude thus <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>uch, that the gift of prophe<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ying and the power of casting <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ut Deuils, are not infallible <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>arkes of a right Catholike, doe <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ot necessarily argue the child of God: for they may be seuered <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>om sauing Grace, from Faith, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>nd good workes; seeing they <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>re ranked amongst common Graces, which are sometimes <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ound in the Reprobate, as well <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>s the Elect; <hi>Quoniam aliquando <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>er malos homines fiunt, Because
+<pb n="30" facs="tcp:178351:20"/> sometimes they are done by euill men,</hi>
+                     <note n="o" place="margin">Lyran. in Mat. c. <hi>7.</hi>
+                     </note> as <hi>Lyran</hi> writeth.</p>
+                  <p>Therefore, to conclude for this time, let vs neuer admire and dote vpon these common graces in wicked men; but let vs firmely beleeue in <hi>Iesus Christ crucified, and bring forth the fruits of tru<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> Christian Faith.</hi> Let vs continu<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> fruitfull and zealous in goo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> workes vnto death. So will ou<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Lord and Sauiour know vs i<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> the <hi>last Day,</hi> so shall we be saued so shall wee enter into the Kingdome of Glory. <hi>Amen.</hi>
+                  </p>
+                  <closer>Tri-uni Gloria.</closer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:178351:20"/>
+                  <p>A DISCOVRSE OF MIRACLES, <hi>Preached at</hi> LANGAR <hi>in the</hi> Valley of Beluoir.</p>
+                  <p>
+                     <hi>The second Sermon.</hi>
+                  </p>
+                  <p>By CHARLES ODINGSELLS.</p>
+                  <q>
+                     <bibl>
+                        <hi>1. Cor. 13.2.</hi>
+                     </bibl> Though I haue the gift of prophecying, and vn<g ref="char:EOLhyphen"/>derstand all mysteries and all knowledge, yea, if I haue all faith, so that I could re<g ref="char:EOLhyphen"/>moue Mountaynes, and haue no charitie, I am nothing.</q>
+                  <p>LONDON Printed by <hi>William Stansby.</hi> 1619.</p>
+               </div>
+               <div type="table_of_contents">
+                  <pb facs="tcp:178351:21"/>
+                  <pb facs="tcp:178351:21"/>
+                  <head>The chiefe things con<g ref="char:EOLhyphen"/>tayned in the seuerall Passages of the second SERMON.</head>
+                  <list>
+                     <item>
+                        <hi>Passage I.</hi> OF Miracles in generall, and the difference betwixt true and false Miracles.</item>
+                     <item>
+                        <hi>Passage II.</hi> The first propertie of a true Miracle.</item>
+                     <item>
+                        <hi>Passage III.</hi> The second propertie of a true Miracle.</item>
+                     <item>
+                        <hi>Passage IIII.</hi> Concerning Wonders wrought by the concurrence of naturall causes.</item>
+                     <item>
+                        <hi>Passage V.</hi> Of Wonders against nature, and of curing Diseases by Charms, &amp;c.</item>
+                     <pb facs="tcp:178351:22"/>
+                     <item>
+                        <hi>Passage VI.</hi> The third propertie of a true Miracle.</item>
+                     <item>
+                        <hi>Passage VII.</hi> What we are to thinke of Mira<g ref="char:EOLhyphen"/>cles reported in the Ecclesiasticall Histories, the ancient Fathers and Doctors.</item>
+                     <item>
+                        <hi>Passage VIII.</hi> Of the time of ceasing of Mi<g ref="char:EOLhyphen"/>racles.</item>
+                     <item>
+                        <hi>Passage IX.</hi> Of Christs manifesting him<g ref="char:EOLhyphen"/>selfe, as a Iudge in the last Day.</item>
+                     <item>
+                        <hi>Passage X.</hi> How Christ is said not to know Sinners.</item>
+                     <item>
+                        <hi>Passage XI.</hi> Of the separation of Sinners from Christ.</item>
+                     <item>
+                        <hi>Passage XII.</hi> The cause of their separation.</item>
+                     <item>
+                        <hi>Passage XIII.</hi> The conclusion applying the next precedent passage.</item>
+                  </list>
+               </div>
+            </front>
+            <body>
+               <div n="2" type="sermon">
+                  <pb n="35" facs="tcp:178351:22"/>
+                  <head>A DISCOVRSE OF MIRACLES, <hi>&amp;c.</hi> The second Sermon.</head>
+                  <epigraph>
+                     <bibl>
+                        <hi>MAT. 7. ver. 22, 23.</hi>
+                     </bibl>
+                     <q>
+                        <p>Many will say vnto mee in that day, Lord, Lord, haue we not prophecyed in thy name? and in thy name haue cast out Deuils? and in thy name done many wonderfull workes?</p>
+                        <p>And then will I professe vnto them, I neuer knew you: Depart from me, ye that worke iniquitie.</p>
+                     </q>
+                  </epigraph>
+                  <p>
+                     <seg rend="decorInit">T</seg>HE third vaunt of those vaine-glorious Hypocrites (mentio<g ref="char:EOLhyphen"/>ned in the former Ser<g ref="char:EOLhyphen"/>mon) in the Day of fierie Try<g ref="char:EOLhyphen"/>all,
+<pb n="36" facs="tcp:178351:23"/> will be this, <hi>Nonne per nomen tuum fecimus multas virtutes? Haue wee not by thy Name done many wonderfull workes?</hi> That is, many workes of power and great vertue, yea, of extraordinarie power and vertue, produced be<g ref="char:EOLhyphen"/>sides or aboue the order of Na<g ref="char:EOLhyphen"/>ture, and so arguing the infinite Power of God: this the Greeke word <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, and the Latine word <hi>virtutes,</hi> are taught to sig<g ref="char:EOLhyphen"/>nifie.</p>
+                  <p>When our blessed Sauiour was in his owne Countrie, Saint <hi>Marke</hi> saith, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, hee could doe there no mightie Worke, that is, no Miracle, by a <hi>Metonymie,</hi> taken from the efficient, as Ma<g ref="char:EOLhyphen"/>ster <hi>Beza</hi> expounds it. S.<note n="a" place="margin">
+                        <hi>Theoph. Lyranus,</hi> and <hi>Ferus,</hi> vpon this Text.</note>
+                     <hi>Theo<g ref="char:EOLhyphen"/>philact, Lyranus,</hi> and <hi>Ferus,</hi> in their Cōmentaries vpō this place, where the same word <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                     <pb n="37" facs="tcp:178351:23"/> is vsed, expound it of the Mira<g ref="char:EOLhyphen"/>cles of these hypocrites. But what Miracles were they? S.<note n="b" place="margin">Chrys. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>pus imp. in Mat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. <hi>19.</hi>
+                     </note>
+                     <hi>Chry<g ref="char:EOLhyphen"/>sostome</hi> will tell you, <hi>Non vtilia &amp; necessaria, sed inutilia &amp; vacua: Not profitable and necessarie, but vnprofitable and vaine,</hi> saith that holy Father.</p>
+                  <p n="1">I.<note place="margin">The first passage.</note> The Prophets in the time of the Law, wrought many wonderfull Workes, many Mi<g ref="char:EOLhyphen"/>racles: our Lord Iesus, and his Apostles and Seruants wrought also mightie Works or Miracles, and that very many; and here the Hypocrites also boast of their miracles, of their wonderfull workes, <hi>Haue we not in thy Name done many wonderfull workes?</hi> All were called <hi>miracula</hi> (in a large acception of the word) <hi>a mirando,</hi> Miracles or wonder<g ref="char:EOLhyphen"/>full Workes, because men admi<g ref="char:EOLhyphen"/>red and wondred at them. But
+<pb n="38" facs="tcp:178351:24"/> wee must obserue a notable and remarkable difference betwixt the Miracles of Christ, the Pro<g ref="char:EOLhyphen"/>phets, and Apostles, and the mi<g ref="char:EOLhyphen"/>racles of these boasting Sinners. The first were true Miracles, the latter deceitfull, false and lying wonders. The first profitable and necessary, the latter vaine and fruitlesse.</p>
+                  <p>It is a matter of some difficul<g ref="char:EOLhyphen"/>tie to discerne true Miracles from false, seeing our blessed Sauiour saith,<note n="c" place="margin">
+                        <hi>Ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</hi> 3.22.</note>
+                     <hi>False christs and false pro<g ref="char:EOLhyphen"/>phets shall rise, and shall shew Signes and Wonders to seduce, if it were possible, euen the Elect.</hi> And Saint <hi>Paul</hi> saith, that<note n="d" place="margin">2. <hi>Th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s.</hi> 3.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</note>
+                     <hi>Anti<g ref="char:EOLhyphen"/>christ shall come after the wor<g ref="char:EOLhyphen"/>king of Satan, with all power, and signes, and lying wonders.</hi>
+                  </p>
+                  <p>It stands vs then vpon, to take heed<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> that wee bee not seduced and deceiued, and to learne to di<g ref="char:EOLhyphen"/>stinguish
+<pb n="39" facs="tcp:178351:24"/> aright betwixt true and false miracles; which that wee may the better doe, I thinke it shall not bee amisse to follow the direction of<note n="e" place="margin">Th. Aqui. in <hi>2.</hi> Thess. cap. <hi>2.</hi>
+                     </note>
+                     <hi>Thomas Aquinas,</hi> who teacheth vs, that three things must concurre to a true Miracle. First, <hi>Vera ratio facti.</hi> Secondly, <hi>Vera ratio Miraculi.</hi> Thirdly, <hi>Debitus finis.</hi> First, <hi>It must be truly done.</hi> Secondly, <hi>It must be truly miraculous.</hi> Third<g ref="char:EOLhyphen"/>ly, <hi>It must haue the due and pro<g ref="char:EOLhyphen"/>per end of a Miracle.</hi> From hence <hi>Hieronymus Zanchius</hi> seemes to haue borrowed his definition,<note n="f" place="margin">Zanch. tom. <hi>3.</hi> l. <hi>4.</hi> cap. <hi>12.</hi>
+                     </note> or rather description of a true Mi<g ref="char:EOLhyphen"/>racle, who saith, It is <hi>a true visi<g ref="char:EOLhyphen"/>ble outward worke simply admira<g ref="char:EOLhyphen"/>ble, done for excellent ends, espe<g ref="char:EOLhyphen"/>cially for the saluation of men, and the glorie of God.</hi>
+                  </p>
+                  <p n="2">II.<note place="margin">The secōd passage.</note> The first propertie of a true Miracle, is to be <hi>truly done,</hi>
+                     <pb n="40" facs="tcp:178351:25"/> not in shew and appearance one<g ref="char:EOLhyphen"/>ly. The want of this makes the deceits, the impostures, and slightie conueyances of Satan (whereby things seeme to bee that which they are not) no true miracles. For hee can by Gods permission, mooue and trouble the spirits, the bloud and humors of mans bodie, and so cause strange imaginations and phan<g ref="char:EOLhyphen"/>tasmes in the phantasie; whereby it comes to passe, that men and women thinke they see many strange &amp; vncouth things, which indeed they see not. For hee will so strongly delude the inward phantasie, as that hee will euen palpably deceiue the outward sense.</p>
+                  <p>He may by Gods permission, ei<g ref="char:EOLhyphen"/>ther assume a true body, or make of the Ayre and other Elements, fayned, counterfeited bodies, as
+<pb n="41" facs="tcp:178351:25"/> of Men or Women, of Birds, or Beasts, and other liuing Crea<g ref="char:EOLhyphen"/>tures; so <hi>per fascinum,</hi> hee hides and clokes that thing which is present, and makes another thing seeme to be there, which indeed is not present. By this meanes,<note n="g" place="margin">Aqu. in <hi>2.</hi> Thess. <hi>2.</hi>
+                     </note>
+                     <hi>Simon Magus</hi> caused a Ramme to bee beheaded, but afterward the Ramme appeared aliue, and a man beheaded; and presently after, the man, who was thought to be beheaded, was seene aliue, and so supposed to bee raysed a<g ref="char:EOLhyphen"/>gaine from death. Thus the De<g ref="char:EOLhyphen"/>uill either assuming a true bodie, or hiding himselfe in a counter<g ref="char:EOLhyphen"/>feit body, like to<note n="h" place="margin">2. <hi>Sa.</hi> 28.</note>
+                     <hi>Samuel</hi> the Pro<g ref="char:EOLhyphen"/>phets bodie, deceiued <hi>Saul</hi> the King, who thought it was <hi>Sa<g ref="char:EOLhyphen"/>muel</hi> indeed. And it seemes, that this errour did possesse the Iewes long after vnto the dayes of <hi>Sy<g ref="char:EOLhyphen"/>racides,</hi> as is easily gathered out
+<pb n="42" facs="tcp:178351:26"/> of the 46. Chapter of <hi>Ecclesiasti<g ref="char:EOLhyphen"/>cus</hi> the 20. Verse.</p>
+                  <p n="3">
+                     <note place="margin">The third Passage.</note>III. The second propertie of a true Miracle is, that it al<g ref="char:EOLhyphen"/>wayes be <hi>truely miraculous.</hi> And that worke is properly and truly miraculous, whose immediate cause and manner of working is secret and hid; not knowne to some Creature, but absolutely and simply vnknowne to any. This goes beyond and aboue the whole order of nature, &amp; there<g ref="char:EOLhyphen"/>fore is properly the worke of the right hand of the most High, <hi>Qui solus facit mirabilia, Who only produceth miraculous effects,</hi> and therefore blessed is Hee, ac<g ref="char:EOLhyphen"/>cording to that Elogie of the Kingly Prophet.<note n="*" place="margin">
+                        <hi>Ps.</hi> 72.18.</note>
+                     <hi>Blessed be the Lord God, euen the God of Israel, which onely doth wondrous works.</hi> Hereupon it is supposed, that the Deuill cannot of himselfe pro<g ref="char:EOLhyphen"/>duce
+<pb n="43" facs="tcp:178351:26"/> the least true Miracle; so<note n="b" place="margin">Zanch. tom. <hi>3.</hi> l. <hi>4.</hi> cap. <hi>12.</hi>
+                     </note>
+                     <hi>Hieronymus Zanchius</hi> resolueth, and Doctor<note n="c" place="margin">Whit. <hi>2.</hi> Contro. de Eccl. quaest. <hi>5.</hi> cap. <hi>12.</hi>
+                     </note>
+                     <hi>Whitaker</hi> saith, <hi>Ego non existimo Daemones posse vel paruum miraculum facere, quia hoc omnem vim creaturae superat.</hi> I doe not thinke that the Deuill can worke the least miracle, be<g ref="char:EOLhyphen"/>cause it exceeds all the power of the Creature: his meaning (I take it) is, that hee cannot doe it by his own power: for it is gran<g ref="char:EOLhyphen"/>ted, that both euill angels and euill men may worke true Mira<g ref="char:EOLhyphen"/>cles, <hi>Dei ipsius virtute, By the power of God himselfe,</hi> vsing them as his instruments. And our Sauiour tells vs here, that in the last Day many will say to him, <hi>Lord, Lord, haue wee not by thy Name done many wonderfull works?</hi> Neuerthelesse, <hi>he will pro<g ref="char:EOLhyphen"/>fesse vnto them, I neuer knew you: Depart from me, you that worke iniquitie.</hi>
+                  </p>
+                  <p n="4">
+                     <pb n="44" facs="tcp:178351:27"/>
+                     <note place="margin">The fourth Passage.</note>IIII. Satan and his instru<g ref="char:EOLhyphen"/>ments the Magicians, can by the concurrence of naturall causes worke strange effects. They can (as some seeme to dispute) not only produce or bring in an acci<g ref="char:EOLhyphen"/>dentall, but euen a substantiall forme to matter, <hi>per naturalium virium copulationem: By conioy<g ref="char:EOLhyphen"/>ning naturall powers.</hi>
+                     <note n="*" place="margin">Pet. Mart. com. loc. clas. <hi>1.</hi> ca. <hi>8.</hi> sect. <hi>2.</hi>
+                     </note> They know that Wormes, and Frogs, and Serpents, are bred and gene<g ref="char:EOLhyphen"/>rated of putrified matter, if so be that heate bee applyed in such a degree. And this, as some thinke, is not hard for them to doe, <hi>appli<g ref="char:EOLhyphen"/>cando actiua naturalia passiuis: by applying naturall agents to na<g ref="char:EOLhyphen"/>turall patients.</hi> They that thus dispute, argue <hi>Philosophicè magis quàm Theologicè: more like Phi<g ref="char:EOLhyphen"/>losophers then Diuines;</hi> greatly magnifying the power and pre<g ref="char:EOLhyphen"/>rogatiue of nature: for, surely,
+<pb n="45" facs="tcp:178351:27"/> this would seeme a wonderfull worke, <hi>supra spem &amp; facultatem mirantis: aboue the expectation and facultie of the admirer.</hi> But as for those Serpents which the Magicians of <hi>Egypt</hi> shewed be<g ref="char:EOLhyphen"/>fore <hi>Pharaoh</hi> the King, it is more<note n="a" place="margin">Zanch. tom. <hi>3.</hi> l. <hi>4.</hi> cap. <hi>12.</hi>
+                     </note>
+                     <hi>probable,</hi> that they conueyed them suddenly out of some place where they were, and put them in the roome of the rods cun<g ref="char:EOLhyphen"/>ningly, deceiuing the eyes, and deluding the sences of the Be<g ref="char:EOLhyphen"/>holders.</p>
+                  <p>No doubt, many strange works haue beene effected by the force and concurrence of natural causes, the reason whereof, be<g ref="char:EOLhyphen"/>cause men vnderstand not, there<g ref="char:EOLhyphen"/>fore they are astonisht, they stand agast, they admire and wonder at them:<note n="b" place="margin">Aristot. Metaph. lib. <hi>1.</hi> cap. <hi>2.</hi>
+                     </note> for as the <hi>Philosopher</hi> teacheth, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, hee that doubts and
+<pb n="46" facs="tcp:178351:28"/> wonders, seemes to be ignorant, seeing Ignorance breedeth won<g ref="char:EOLhyphen"/>derment and admiration.</p>
+                  <p n="5">
+                     <note place="margin">The fift Passage.</note>V. Other rare effects are wrought, euen contrary to Na<g ref="char:EOLhyphen"/>ture, that is, Gods order set down in nature, preseruing the course of nature: and these cannot pro<g ref="char:EOLhyphen"/>perly be called Miracles, in Saint <hi>Augustines</hi> iudgement; for as hee saith,<note n="c" place="margin">Aug. in sent. Prosp. sent. <hi>283.</hi>
+                     </note>
+                     <hi>Naturarum conditor Deus, nihil in miraculis contra naturam facit: God the Creator of nature, doth nothing in Miracles against nature.</hi> So then, <hi>Simon</hi> of <hi>Sama<g ref="char:EOLhyphen"/>ria</hi> flying by the helpe of the De<g ref="char:EOLhyphen"/>uill in the ayre, contrary to the nature of man, did not in that a true Miracle. They which cure diseases by words, by charmes, and inchantments (whereof ma<g ref="char:EOLhyphen"/>ny examples are reported in <hi>Plin. l.</hi> 28. 2. <hi>in Franc. Vales. de sacr. Phil. c.</hi> 3. <hi>in Fernel. de abdit. rer.
+<pb n="47" facs="tcp:178351:28"/> caus. l.</hi> 2. <hi>c.</hi> 16.) doe it not indeede miraculously, but against the na<g ref="char:EOLhyphen"/>ture of those meanes, by some o<g ref="char:EOLhyphen"/>ther euill vnlawfull meanes. Peruse the Writers Humane and Diuine, and, I thinke, they will almost all (except <hi>Trallianus</hi> and <hi>Galen,</hi> as he is reported by <hi>Tral<g ref="char:EOLhyphen"/>lianus, lib.</hi> 9. <hi>cap.</hi> 4.) accord, that words, whether written or pro<g ref="char:EOLhyphen"/>nounced, haue in, and of them<g ref="char:EOLhyphen"/>selues, no such vertue or efficacy: <hi>Falsum est prorsus &amp; ab omni ra<g ref="char:EOLhyphen"/>tione alienum, vim esse per se vl<g ref="char:EOLhyphen"/>lam verbis, aut aliam, quam signi<g ref="char:EOLhyphen"/>ficandi ex hominum placito, Fra. Vales. de sacr. Philo. cap.</hi> 3. <hi>It is altogether false and disagreeing from reason, that there should bee any vertue in words of themselues or other, then to signifie as men please.</hi> The Heathen<note n="d" place="margin">Plin. Nat. hist. l. <hi>28.</hi> cap. <hi>2.</hi>
+                     </note>
+                     <hi>Plinie</hi> can say, <hi>Viritim cuius{que} sapientis<g ref="char:EOLhyphen"/>simi respuit fides: No wise man
+<pb n="48" facs="tcp:178351:29"/> whatsoeuer doth beleeue it.</hi> But indeed, as Almightie God suffe<g ref="char:EOLhyphen"/>reth Satan and his instruments to inflict strange and vnnaturall dis<g ref="char:EOLhyphen"/>eases, so hee permits them some<g ref="char:EOLhyphen"/>times by euill meanes to take the same away. Such diseases are <hi>trans naturam,</hi>
+                     <note place="margin">Fern. de abd. rerum caus. l. <hi>2.</hi> cap. <hi>16.</hi>
+                     </note>
+                     <hi>beyond nature</hi> (as the learned Phisician <hi>Ferne<g ref="char:EOLhyphen"/>lius</hi> calls them) and therefore are not obedient to the rules of his Arte; whereupon it commeth to passe, that men and women, ei<g ref="char:EOLhyphen"/>ther through ignorance, or diffi<g ref="char:EOLhyphen"/>dence in God, forsaking him, seeke vnto his enemie the Deuill, and his Charmers, and Enchan<g ref="char:EOLhyphen"/>ters, rather then they will haue themselues, or their friends, or their cattell any longer afflicted: But such courses are altogether vnlawfull; the Lord our God ha<g ref="char:EOLhyphen"/>teth and abhorreth them; for, wheresoeuer such charmes either
+<pb n="49" facs="tcp:178351:29"/> pronounced or written, are vsed, <hi>ibi semper vel apertè vel tacitè inuocantur Daemones: There De<g ref="char:EOLhyphen"/>uils are alwayes, either openly or secretly called vpon,</hi> saith<note n="f" place="margin">Zanch. tom. <hi>3.</hi> l. <hi>4.</hi> cap. <hi>15.</hi>
+                     </note>
+                     <hi>Zan<g ref="char:EOLhyphen"/>chy:</hi> and so one great euill is re<g ref="char:EOLhyphen"/>medied and taken away by ano<g ref="char:EOLhyphen"/>ther that is greater. But they that purposely doe euill, that good may ensue, are such as the blessed<note n="g" place="margin">
+                        <hi>Rom.</hi> 3.8.</note> Apostle speakes of, <hi>Quorum damnatio iusta est: whose damnation is iust.</hi> It is the euill of punishment to suffer bodily affliction: this may befall Gods children,<note place="margin">
+                        <hi>H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>b.</hi> 12.6.</note> for hee scourgeth euery sonne whom he receiueth. But it is the euill of sinne, yea a most haynous sinne to commit Idola<g ref="char:EOLhyphen"/>trie, to goe to Charmers and En<g ref="char:EOLhyphen"/>chanters, that they may take a<g ref="char:EOLhyphen"/>way the euill they haue inflicted. Wherefore, howsoeuer <hi>Trallia<g ref="char:EOLhyphen"/>nus</hi> thinks it honest, <hi>omni machina
+<pb n="50" facs="tcp:178351:30"/> aegris succurrere: by all meanes and deuices to releeue the sicke;</hi> yet<note n="h" place="margin">Pet. Mar. loc. comm. clas. <hi>1.</hi> c. <hi>9.</hi> sect. <hi>31.</hi>
+                     </note>
+                     <hi>Peter Martyr</hi> saith well▪ <hi>Excan<g ref="char:EOLhyphen"/>tatione tollenda non est excanta<g ref="char:EOLhyphen"/>tio: One inchantment or witche<g ref="char:EOLhyphen"/>ry must not bee taken away by ano<g ref="char:EOLhyphen"/>ther.</hi> And what writes <hi>Fernelius</hi> of such like cures? take his iudge<g ref="char:EOLhyphen"/>ment;<note place="margin">F<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rn. de a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d rerum caus lib. <hi>2.</hi> cap. <hi>16.</hi>
+                     </note> his words are these, <hi>Nec certa, nec tuta, sed fallax, captiosa &amp; periculosa est sanatio: The cure is neither safe, nor certayne, but deceitfull, captious, and dan<g ref="char:EOLhyphen"/>gerous;</hi> yet by that meanes the Deuill makes men admire and wonder at such cures, that they may giue vnto him diuine ho<g ref="char:EOLhyphen"/>nour. I haue heretofore disswa<g ref="char:EOLhyphen"/>ded you of this Parish of <hi>Lan<g ref="char:EOLhyphen"/>gar,</hi> from running to them that vse charmes, and are <hi>good at words</hi> (as they call them here in the Valley) I haue forbidden you to resort to such. But how
+<pb n="51" facs="tcp:178351:30"/> comes it to passe, that you wil not obey? Do you thinke that Gods hand is shortned, that he cannot saue, as in times past? or his eare heauy, that he will not heare, as in former times? is it because there is no God in <hi>Israel,</hi> that you goe to inquire of <hi>Baal-Zebub</hi> the god of <hi>Ekron?</hi> haue yee not read it? hath it not beene told you? haue yee not heard it ma<g ref="char:EOLhyphen"/>ny times? did you neuer yet vn<g ref="char:EOLhyphen"/>derstand, what the Lord our God commandeth in his Law?<note n="i" place="margin">
+                        <hi>Leuit.</hi> 19.31.</note>
+                     <hi>You shall not regard them that worke with spirits, nor Sooth-say<g ref="char:EOLhyphen"/>ers: yee shall not seeke to them to be defiled by them. I am the Lord your God.</hi> And in another place,<note n="k" place="margin">
+                        <hi>Deut.</hi> 18.10, 11, <hi>&amp;c.</hi>
+                     </note>
+                     <hi>Let none bee found among you that vseth witchcraft, or a Re<g ref="char:EOLhyphen"/>garder of times, or a Marker of flying of Fowles, or a Sorcerer, or a Charmer, or that counselleth
+<pb n="52" facs="tcp:178351:31"/> with a Spirit, or a Sooth-sayer, or that asketh counsell at the dead; for all that doe such, are abomina<g ref="char:EOLhyphen"/>tion to the Lord:</hi> and Christ in the last Day will professe to them, <hi>I neuer knew you: Depart from me, yee that worke iniquitie.</hi>
+                  </p>
+                  <p n="6">
+                     <note place="margin">The sixth Passage.</note>VI. The third propertie of a true miracle is, it must haue <hi>debi<g ref="char:EOLhyphen"/>tum finem miraculi: the due end of a miracle,</hi> saith <hi>Aquinas:</hi> it must euer ayme at Gods Glorie and man saluation, saith <hi>Zanchie.</hi> Many rare and strange things are and haue beene wrought by the Magicall illusions and con<g ref="char:EOLhyphen"/>ueyances of Satan, and his vas<g ref="char:EOLhyphen"/>sals, working diuersly, as I haue shewed, aboue the ordinary con<g ref="char:EOLhyphen"/>ceit and expectation of men; and also besides, if not against the ordinary course of nature: All which are done to an euill end, namely, to deceiue, and to de<g ref="char:EOLhyphen"/>lude,
+<pb n="53" facs="tcp:178351:31"/> to draw men away from the true God, to deuoure and destroy soules: As for the Magici<g ref="char:EOLhyphen"/>ans themselues, the Deuils instru<g ref="char:EOLhyphen"/>ments, by whom hee vseth to worke wonders,<note n="a" place="margin">Lact. diu. Inst. lib. <hi>2.</hi> cap. <hi>17.</hi>
+                     </note>
+                     <hi>Lactantius</hi> words may well bee verified of them, <hi>Et vita, &amp; salus eorum, qui haec fecerint, immolantur: Both the life and saluation of them which doe these things, are sacrificed.</hi> But vnto whom? euen vnto Satan. Our Sauiour fore<g ref="char:EOLhyphen"/>told, that false christs and false prophets should arise, and shew signes and wonders; But to what end? <hi>to seduce, if it were possible,</hi>
+                     <note place="margin">
+                        <hi>Mark.</hi> 13.22.</note>
+                     <hi>euen the Elect.</hi> Saint <hi>Paul</hi> also foretold, that Antichrist should come with all power, signes, and lying wonders, and with all<note n="b" place="margin">2. <hi>The.</hi> 2.2.</note>
+                     <hi>de<g ref="char:EOLhyphen"/>ceiuablenesse of vnrighteousnesse</hi> in them that perish. Such signes, such powers and wonders, by
+<pb n="54" facs="tcp:178351:32"/> Gods permission may bee truely done, and participate much of the nature of a true miracle. Yet, because they are done to an euill end, to deceiue, to destroy soules, to nourish idolatrie, they are false miracles, <hi>In quantum deficiunt a debito fine, In as much as they faile &amp; come short of the due end:</hi> for true miracles must euer bee destined and directed to the sal<g ref="char:EOLhyphen"/>uation of mankinde, and the glo<g ref="char:EOLhyphen"/>rie of the eternall God, as it is written;<note n="b" place="margin">1. <hi>Cor.</hi> 10.3.</note>
+                     <hi>Whatsoeuer yee doe, doe all to the glorie of God.</hi>
+                  </p>
+                  <p n="7">
+                     <note place="margin">The seuēth Passage. <hi>Obiect.</hi>
+                     </note>VII. But here some will say, What shall wee thinke of those, almost innumerable miracles, re<g ref="char:EOLhyphen"/>ported in the Ecclesiasticall Hi<g ref="char:EOLhyphen"/>stories, in the ancient Fathers, &amp; Doctors of the Church? what, are they all true?</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Answ. </seg>
+                     </label> To this I answere; They that writ them (howsoeuer indued
+<pb n="55" facs="tcp:178351:32"/> with rare gifts, and worthie In<g ref="char:EOLhyphen"/>struments of Gods Glorie) were men, and so might erre in that, as well as points of greater con<g ref="char:EOLhyphen"/>sequence, matters of faith; and somuch the rather, because they receiued many of them by report from others. Againe, they that did them, were men, &amp; so might erre, <hi>quoad finem &amp; intentionem, in regard of the end and intenti<g ref="char:EOLhyphen"/>on;</hi> for who knowes whether in euery particular miracle they did intend and ayme at a right and due end? Surely, me thinks, <hi>Sene<g ref="char:EOLhyphen"/>ca's</hi> morall rule vsed in another case, may here not vnfitly bee applyed,<note n="*" place="margin">Sen. Ep. <hi>3.</hi> ad Lucil.</note>
+                     <hi>Vtrumque vitium est, &amp; omnibus credere &amp; nulli: to be<g ref="char:EOLhyphen"/>leeue all and to beleeue none, is nei<g ref="char:EOLhyphen"/>ther of them good;</hi> it is neither safe to beleeue all, nor pious to beleeue none: To beleeue all, many will thinke were too rash;
+<pb n="56" facs="tcp:178351:33"/> but to beleeue none, I am sure were too irreligious. Therefore, as the blessed Apostle speaketh of Doctrines, so say I of those Miracles,<note n="a" place="margin">1. <hi>Thes.</hi> 5.21.</note>
+                     <hi>Prooue all things, hold fast that which is good:</hi> proue them <hi>ex ratione facti, ex ratione miraculi, ex ratione finis;</hi> proue them (if it may be) <hi>whether they were truely done, whether truely miraculous, whether destined to a true end:</hi> and then, <hi>quod bonum est retinete: hold fast and approue that which is good.</hi>
+                  </p>
+                  <p n="8">
+                     <note place="margin">The eight Passage.</note>VIII. As touching the time whē true visible Miracles should cease, which I promised to speake of in the former Sermon, I finde that Saint <hi>Chrysostome</hi> disputing the matter, why they were done in the Disciples time, and not in his,<note n="b" place="margin">Chrys. in <hi>1.</hi> Cor. <hi>2.</hi> Hom. <hi>6.</hi>
+                     </note> saith, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>Then they were profitably done,</hi> that is, in the
+<pb n="57" facs="tcp:178351:33"/> Apostles time, and <hi>now they are profitably left vndone,</hi> speaking of his owne time. And hee giues the reason of it, Because if men did relie vpon visible miracles, Faith would be lesse. And Saint<note n="c" place="margin">Aug. de vera Relig. cap. <hi>25.</hi>
+                     </note>
+                     <hi>Austine</hi> in his 25. Chapter of true Religion, saith, <hi>The Catho<g ref="char:EOLhyphen"/>like Church being planted and dis<g ref="char:EOLhyphen"/>persed thorow the whole world, Miracles were not permitted to last vnto his time:</hi> his reason is, <hi>Ne animus semper visibilia quaere<g ref="char:EOLhyphen"/>ret, &amp; eorum consuetudine friges<g ref="char:EOLhyphen"/>ceret genus humanum, quorum nouitate flagrauit: Lest the minde should alwaies seeke visible things, and mankinde grow cold through the custome of those things, by the noueltie whereof it was hot and feruent.</hi> But this<note n="d" place="margin">August. Retract. l. <hi>1.</hi> c. <hi>13.</hi>
+                     </note> Saint <hi>Augu<g ref="char:EOLhyphen"/>stine</hi> did afterwards retract in these words, <hi>Sed non sic accipien<g ref="char:EOLhyphen"/>dum est quod dixi, vt nunc in
+<pb n="58" facs="tcp:178351:34"/> Christi Nomine fieri nulla mira<g ref="char:EOLhyphen"/>cula credantur: But that which I haue said, is not so to be taken, as that no Miracles should bee belee<g ref="char:EOLhyphen"/>ued to bee done now-a-daies in the Name of Christ.</hi> And then hee relates what was miraculously done, euen at that time when he wrote his Retractations. So it seemes, that Saint <hi>Chrysostome</hi> and Saint <hi>Augustine</hi> spoke of the ceasing in their time, of such plentifull and ordinarie working of visible miracles, as was in the Apostles time, and after. But when, and at what particular pe<g ref="char:EOLhyphen"/>riod of time the working of vi<g ref="char:EOLhyphen"/>sible Miracles since should whol<g ref="char:EOLhyphen"/>ly cease, I cannot affirme any thing: but leaue it to the deter<g ref="char:EOLhyphen"/>mination and resolution of the Church, whose directions I am alwayes readie to follow, in whose iudgment I willingly rest.
+<pb n="59" facs="tcp:178351:34"/> This only I am sure of, that inuisible Miracles are wrought daily and plentifully in the vi<g ref="char:EOLhyphen"/>sible Church: for to conuert a sinner, is a miracle. <hi>It is a greater worke,</hi> saith Saint<note n="e" place="margin">See Ma<g ref="char:EOLhyphen"/>ster <hi>Copley</hi> in his Doctr. and Morall obser. <hi>c.</hi> 1.</note> AVGVSTINE, <hi>for a sinner to bee made righteous, then to create Heauen and Earth.</hi>
+                     <note n="f" place="margin">Prosp. de Promis. &amp; Praed. part. <hi>2.</hi> c. <hi>30.</hi>
+                     </note> Saint <hi>Prosper</hi> saith; <hi>It is more to iustifie a sinner, then to raise one from the dead.</hi> To make a pro<g ref="char:EOLhyphen"/>phane Vnbeleeuer, a true Belee<g ref="char:EOLhyphen"/>uer, is a Miracle; nay, to vnite Faith and a mans heart in one, is <hi>omni miraculo mirabilius,</hi> saith Saint BERNARD, <hi>more miracu<g ref="char:EOLhyphen"/>lous then any Miracle,</hi> and is one of those three mixtures or vni<g ref="char:EOLhyphen"/>ons, which<note n="g" place="margin">Bern. in Vigil. Nat. Dom. ser. <hi>3.</hi>
+                     </note> Saint <hi>Bernard</hi> cal<g ref="char:EOLhyphen"/>leth <hi>singularly admirable, and ad<g ref="char:EOLhyphen"/>mirably singular.</hi> But many, who haue by the preaching of the Gospell conuerted sinners vnto God (they themselues being a<g ref="char:EOLhyphen"/>uerse
+<pb n="60" facs="tcp:178351:35"/> from grace) will come in the last Day, and say vnto Christ, <hi>Haue wee not by thy Name done many wonderfull works?</hi> conuer<g ref="char:EOLhyphen"/>ted many monstrous, horrible, peruerse sinners? And what will our LORD then professe vnto them? <hi>I neuer knew you: Depart from me, yee that worke iniquitie.</hi>
+                  </p>
+                  <div type="part">
+                     <head>Christs Censure of Hypocrites.</head>
+                     <p n="9">
+                        <note place="margin">The ninth Passage.</note>IX. SO come we to the <hi>Cen<g ref="char:EOLhyphen"/>sure of Christ,</hi> touch<g ref="char:EOLhyphen"/>ing these Hypocrites, wherein obserue wee foure things: First, He openeth himselfe vnto them; <hi>Then will I professe to them.</hi> Se<g ref="char:EOLhyphen"/>condly, He protesteth ignorance of them, <hi>I neuer knew you.</hi> Third<g ref="char:EOLhyphen"/>ly, Hee separateth them from him, <hi>Depart from me.</hi> Fourthly,
+<pb n="61" facs="tcp:178351:35"/> He sets downe the cause, why he did separate them from him, and that was their euill qualitie and condition, <hi>Ye workers of iniquity.</hi>
+                     </p>
+                     <p>Almightie GOD many times seemeth not to regard sinners, but delayeth and deferreth his anger, as himselfe speaketh in ESAY,<note n="*" place="margin">
+                           <hi>Esay</hi> 42.14.</note>
+                        <hi>I haue long time holden my peace, I haue beene still and re<g ref="char:EOLhyphen"/>frayned my selfe:</hi> and in the booke of Psalmes, to the prophane sin<g ref="char:EOLhyphen"/>ner he saith thus:<note n="a" place="margin">
+                           <hi>Ps.</hi> 50.21.</note>
+                        <hi>These things hast thou done, and I kept silence: Thou thoughtest that I was alto<g ref="char:EOLhyphen"/>gether such a one as thy selfe: But I will reproue thee, and set them in order before thine eyes.</hi> The time will come, that the Lord wil bee auenged of his enemies, of them that transgresse his Law: for as the<note n="b" place="margin">Homer.</note> Pagan tells you, <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, hee hath an auenging eye, to obserue all the
+<pb n="62" facs="tcp:178351:36"/> wayes of the sonnes of men. <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>. The Mills of GODS Iustice grinde slow, but grinde small. And therefore Saint <hi>Chrysostome</hi> saith,<note place="margin">Chrys. Op. imperf. in Matt. <hi>7.</hi> Hom. <hi>19.</hi>
+                        </note>
+                        <hi>Long delay goeth before great wrath, making the Iudge<g ref="char:EOLhyphen"/>ment of God more iust, and the punishment of sinners more wor<g ref="char:EOLhyphen"/>thy and deserued.</hi> And yet, the Preacher of Ierusalem obserues that,<note place="margin">
+                           <hi>Eccl.</hi> 8.11.</note>
+                        <hi>Because sentence against an euill worke is not speedily executed, therefore the heart of the children of men is fully set in them to doe e<g ref="char:EOLhyphen"/>uill.</hi> Our Lord Iesus held his peace, and seemed to dissemble, to take no notice of the iniquitie of these sonnes of <hi>Belial</hi> in their life time: but at the generall Doome, when the secrets of all hearts shall bee disclosed, then will hee vnmaske them, then will he pull off the glorious Vizzard
+<pb n="63" facs="tcp:178351:36"/> of their foule hypocrisie; then will he professe vnto them, <hi>I ne<g ref="char:EOLhyphen"/>uer knew you.</hi> O bitter sentence of the most iust Iudge, who will say to them in that Day, <hi>I neuer knew you.</hi>
+                     </p>
+                     <p n="10">X.<note place="margin">The tenth passage.</note> Here our Sauiour pro<g ref="char:EOLhyphen"/>tests his ignorance of them; but you must not so vnderstand it, as if hee had not knowne them at all: for what knoweth not he, in whom are hid all the treasures of Wisdome and Knowledge?<note n="a" place="margin">
+                           <hi>Col.</hi> 2.3.</note> What knoweth not hee, who knoweth all things? there is then something more implyed in these words, then in outward shew they seeme to expresse. <hi>To bee knowne of the Lord,</hi> saith Saint<note n="b" place="margin">Aug. in Psal. <hi>1.</hi> v. <hi>6.</hi>
+                        </note> AVGVSTINE, <hi>is to remayne and abide: not to bee knowne of him, is to perish:</hi> as it is written,<note n="c" place="margin">
+                           <hi>Psal.</hi> 1.6</note>
+                        <hi>The Lord knoweth the way of the righteous, but the way of the vn<g ref="char:EOLhyphen"/>godly
+<pb n="64" facs="tcp:178351:37"/> shall perish. To bee knowne of the Lord, is to be predestinate.</hi>
+                        <note n="d" place="margin">2. <hi>Ti.</hi> 1.19</note>
+                        <hi>The Lord knowe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>h who are his,</hi> saith the blessed Apostle. But how? <hi>Per notitiam diuinae praedestinationis: By the knowledge of diuine predestination,</hi> saith<note n="e" place="margin">Aquin. in <hi>2.</hi> Tim. <hi>2.</hi>
+                        </note>
+                        <hi>Aquinas. To be knowne of the Lord, is to bee elect and chosen of him:</hi> as it may well bee vnder<g ref="char:EOLhyphen"/>stood, <hi>Ieremie</hi> the first &amp; the fift verse, where the Lord saith of <hi>Ie<g ref="char:EOLhyphen"/>remie, Before I formed thee in the belly, I knew thee:</hi> and whereas our Sauiour saith, <hi>My</hi>
+                        <note n="f" place="margin">
+                           <hi>Ioh.</hi> 10.27</note>
+                        <hi>sheepe heare my voice, and I know them,</hi>
+                        <note n="g" place="margin">Alcuin. ap. Th. Aqu. in aur. oper. sup. Euang.</note>
+                        <hi>Alcuinus</hi> expounds it, <hi>Et ego eligo eos: And I elect or choose them.</hi> So then, to bee knowne of the Lord, is to bee predestinate and elect, and to re<g ref="char:EOLhyphen"/>mayne in the grace of Predesti<g ref="char:EOLhyphen"/>nation and Election: not to bee knowne of him, is to be reiected
+<pb n="65" facs="tcp:178351:37"/> and reprobate. These forlorne ones could not continue in the Grace of Predestination and E<g ref="char:EOLhyphen"/>lection which they neuer had: and therefore in that Day of ter<g ref="char:EOLhyphen"/>rour, Christ shall professe vnto them, <hi>I neuer knew you.</hi>
+                     </p>
+                     <p>Almightie God, in the Pro<g ref="char:EOLhyphen"/>phet <hi>Amos,</hi> speaketh to the sonnes of Israel in this manner,<note n="h" place="margin">
+                           <hi>Amos</hi> 3.2</note>
+                        <hi>You onely haue I knowne, of all the Families of the Earth.</hi> For the better vnderstanding where<g ref="char:EOLhyphen"/>of, you must learne to distinguish betwixt <hi>Knowledge simply</hi> so cal<g ref="char:EOLhyphen"/>led, and <hi>Knowledge of approba<g ref="char:EOLhyphen"/>tion:</hi> and againe, betwixt <hi>Know<g ref="char:EOLhyphen"/>ledge of approbation, and know<g ref="char:EOLhyphen"/>ledge of reprobation,</hi> as<note n="i" place="margin">Lyra. in sept. cap. Mat.</note>
+                        <hi>Lyra<g ref="char:EOLhyphen"/>nus</hi> distinguisheth, by Know<g ref="char:EOLhyphen"/>ledge simply so called, the Lord knew both Iewes and Gentiles, all Kindreds, and Families of the Earth, yea, he knowes all parti<g ref="char:EOLhyphen"/>cular
+<pb n="66" facs="tcp:178351:38"/> Creatures whatsoeuer, <hi>tam Vermiculum in Terra, quam An<g ref="char:EOLhyphen"/>gelum in Coelo: As well the Worme vpon the Earth, as the Angell in Heauen.</hi> But as by his knowledge of reprobation he knew onely the children of wrath, vessels prepared to de<g ref="char:EOLhyphen"/>struction: so by his approouing knowledge, hee knew onely the posteritie of <hi>Iacob,</hi> he knew one<g ref="char:EOLhyphen"/>ly the sonnes of Israel, of all the Families of the Earth: for hee onely chose them, as Master <hi>Cal<g ref="char:EOLhyphen"/>uin</hi> expounds the words of the Prophet<note n="k" place="margin">C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>luin. in Amos <hi>3.2.</hi>
+                        </note>
+                        <hi>Amos, Ego vos libere elegi, &amp; elegi solos:</hi> that is, <hi>I haue chosen you freely, I haue chosen you onely:</hi> according to the sweet Singer of Israel,<note n="l" place="margin">
+                           <hi>Psal.</hi> 147. <hi>verse</hi> 19, 20</note>
+                        <hi>Hee shewe <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>is words vnto</hi> IACOB, <hi>his Sta<g ref="char:EOLhyphen"/>tutes and his Iudgements vnto I<g ref="char:EOLhyphen"/>srael, he dealt not so with any Na<g ref="char:EOLhyphen"/>tion.</hi> By knowledge simply so
+<pb n="67" facs="tcp:178351:38"/> called, and by knowledge of re<g ref="char:EOLhyphen"/>probation, Christ knew these false Prophets, these <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ypocriti<g ref="char:EOLhyphen"/>call Exorcists, these false Won<g ref="char:EOLhyphen"/>der-workers mentioned in my Text: But by his <hi>approouing Knowledge</hi> he neuer knew them; and therefore in the Day of fiery Tryall, hee will professe to them, <hi>I neuer knew you.</hi>
+                     </p>
+                     <p n="11">XI. But that which followes,<note place="margin">The ele<g ref="char:EOLhyphen"/>uenth passage.</note> infinitely aggrauates the woe and miserie of these wretched ones, in that Christ will separate them from him, saying <hi>Discedite a me: Depart from mee.</hi> They once professed the Name of Christ outwardly, they prophe<g ref="char:EOLhyphen"/>cyed and cast out Deuils, they wrought Wonders by his Name: so in a sort they were with <hi>Christ,</hi> in a sort they were conioyned to him, and that was, <hi>Per Gratiam communem: by common or in<g ref="char:EOLhyphen"/>lightning
+<pb n="68" facs="tcp:178351:39"/> Grace,</hi> not sauing and iustifying Grace, which onely maketh men gracious &amp; accepta<g ref="char:EOLhyphen"/>ble to God, but by <hi>cōmon Grace,</hi> which may bee giuen freely, as well to <hi>Iudas,</hi> and <hi>Simon</hi> of Sa<g ref="char:EOLhyphen"/>maria, as <hi>Simon Peter,</hi> or Saint <hi>Paul.</hi> Thus were they conioyned to <hi>Christ</hi> our blessed Sauiour, they would needes retayne vnto him, they would needes vse his Name, &amp; weare his Cognizance, but he neuer entertained them as his domesticall seruāts: they were like those mentioned in <hi>Ieremy,</hi> of whom the Lord said,<note n="m" place="margin">
+                           <hi>Ier.</hi> 4.14</note>
+                        <hi>The pro<g ref="char:EOLhyphen"/>phets prophecie Lyes in my Name, I sent them not, neither haue I cō<g ref="char:EOLhyphen"/>manded them: neither spake vnto them: They prophecy vnto you false vision and diuination, and a thing of nought, and the deceit of their owne heart.</hi> But what saith God by<note n="n" place="margin">
+                           <hi>Eze.</hi> 13.3</note>
+                        <hi>Ezechiel? Wo vnto the foolish prophets, which follow their owne
+<pb n="69" facs="tcp:178351:39"/> spirit, and haue seene nothing.</hi> Yea, endlesse and vnspeakeable woe shall bee vnto them, vnto whom our Sauiour will say, <hi>Dis<g ref="char:EOLhyphen"/>cedite a me: Depart from mee.</hi> Who can conceiue or expresse the horrour and terrour of these words? Whither shall they turne them? Alas, whither shall they go, who shall, will they, nill they, be inforced to go away from the Lord Iesus? Nothing can be ad<g ref="char:EOLhyphen"/>ded to the terror of these words, of this comfortlesse command, <hi>Depart from mee,</hi> as if our Lord should haue said to them, <hi>I am the Way and the Truth:</hi> but goe from mee, and wander in the by<g ref="char:EOLhyphen"/>paths of eternall errour and con<g ref="char:EOLhyphen"/>fusion: <hi>I am the Light and the life of men, but away from me, get you, O foolish Hypocrites, into the Kingdome of perpetuall darknes, into the Land and Region of death: Vt qui modo videmini esse ante
+<pb n="70" facs="tcp:178351:40"/> me, postea nec videamini: That you who appeare before mee now, may neuer appeare hereafter,</hi> as <hi>Ori<g ref="char:EOLhyphen"/>gen</hi> speakes.</p>
+                     <p>All they that depart and goe away from God, by iniquitie in this life, shall after be compelled to depart from <hi>Christ</hi> in the o<g ref="char:EOLhyphen"/>ther life, receiuing the wages of sinne, the second death. They that are farre from <hi>Christ</hi> in the time of Grace, shall bee farther from him in the time of Glorie: for they shall perish, as it is writ<g ref="char:EOLhyphen"/>ten,<note n="o" place="margin">
+                           <hi>Ps.</hi> 73.27</note>
+                        <hi>Lo, they that are farre from thee, shall perish, thou hast destroyed all them that goe a whoring from thee:</hi> such are false Prophets, Coniurers, Workers of lying Wonders; these are farre from God. And why? Because as Saint<note n="p" place="margin">Aug. in Psal. <hi>73.</hi>
+                        </note>
+                        <hi>Augustine</hi> saith, they haue desired earthly things, &amp; sought them, <hi>A Daemonibus &amp; Diabolo,
+<pb n="71" facs="tcp:178351:40"/> From Deuils, from Satan:</hi> There<g ref="char:EOLhyphen"/>fore shall they bee destroyed, therefore shall they perish, <hi>Non vt non sint, sed vt male sint: Not so as to haue no being, but to haue an euill being;</hi> to haue a most wretched, to haue a most paine<g ref="char:EOLhyphen"/>full and dolorous being, and that in horrour and darknesse, euer dying, and neuer dead, continu<g ref="char:EOLhyphen"/>ally cruciated and tormented with the Worme and the Fire; <hi>The Worme of conscience, and the fire of Hell;</hi>
+                        <note n="q" place="margin">
+                           <hi>Esay</hi> 66.</note>
+                        <hi>The Worme that dyeth not, and the fire that neuer goeth out.</hi>
+                     </p>
+                     <p n="12">XII.<note place="margin">The twelfth passage.</note> The reason why these desperate Miscreants should bee separated from <hi>Christ,</hi> is, because they are <hi>Workers of iniquitie.</hi> It is not then their pretended pro<g ref="char:EOLhyphen"/>phecying, their casting out of De<g ref="char:EOLhyphen"/>uils, that can saue and deliuer them in the Day of Gods wrath;
+<pb n="72" facs="tcp:178351:41"/> but it is their working of iniqui<g ref="char:EOLhyphen"/>tie that shall surely condemne them. As the Children of God doe habitually worke Righte<g ref="char:EOLhyphen"/>ousnesse, so the sonnes of <hi>Belial</hi> habitually worke iniquitie, prac<g ref="char:EOLhyphen"/>tizing a custome and trade of sinning. They that worke ini<g ref="char:EOLhyphen"/>quitie, <hi>commit sinne,</hi> as it is sen<g ref="char:EOLhyphen"/>sed by Saint <hi>Iohn,</hi> that is, they transgresse the Law of God wil<g ref="char:EOLhyphen"/>lingly, and purposely, with a full consent of will, and delight of heart, and therefore are they, saith Saint <hi>Iohn, ex</hi>
+                        <note n="r" place="margin">1. <hi>Ioh</hi> 3.8.</note>
+                        <hi>Diabolo: of the Deuill.</hi> The suggestion of sin, according to Saint<note n="s" place="margin">Greg. re<g ref="char:EOLhyphen"/>spons. ad vndec. in<g ref="char:EOLhyphen"/>terrogat. <hi>Aug.</hi> Arch. Can<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>uar.</note>
+                        <hi>Gregorie,</hi> is from Satan, delight in sinne is from the flesh: It is begunne by suggestion, but sed and nouri<g ref="char:EOLhyphen"/>shed by delight. So long then as the flesh remayneth flesh, delight in sinne remayneth in it: where<g ref="char:EOLhyphen"/>vpon the same holy Father saith,
+<pb n="73" facs="tcp:178351:41"/> Euery Sinner sinneth <hi>in suo ae<g ref="char:EOLhyphen"/>terno, in his eternitie. Voluissent quippe sine fine viuere, vt sine fi<g ref="char:EOLhyphen"/>ne potuissent in iniquitatibus per<g ref="char:EOLhyphen"/>manere: They would liue without end, that they might sinne without end, Greg. exposit. moral. in</hi> 42. <hi>ca. Iob, lib.</hi> 34. <hi>cap.</hi> 11. If a Sinner might liue euer, he would sinne euer: as he abideth vnregenerate and carnall euer, so he continueth a Sinner euer, so he liues, and so hee dyes. And this<note n="t" place="margin">The rea<g ref="char:EOLhyphen"/>son why finite sin is puni<g ref="char:EOLhyphen"/>shed with infinite punis<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                           <g ref="char:EOLhyphen"/>ment.</note> is the cause (as Diuines doe obserue) why Almightie God doth punish sin iustly with infinite and endlesse punishment: seeing it is in the Reprobate <hi>infinite,</hi> both in re<g ref="char:EOLhyphen"/>gard of the <hi>obiect</hi> which is God, and the <hi>subiect</hi> which is the soule, as also in respect of the <hi>progresse:</hi> for it goeth on still, it changeth nor, it remayneth immutable, as
+<pb n="74" facs="tcp:178351:42"/> the will continueth immutable. Hence it is, that our Sauiour in the last Day will not say vnto these miserable ones, <hi>Depart from me,</hi> you that <hi>haue wrought iniquitie;</hi> but in the present Tense, <hi>Qui operamini; yee that worke iniquitie,</hi> you that haue an habit, a trade and custome of sinning. As if hee should haue said vnto them, Although you haue not now meanes and occa<g ref="char:EOLhyphen"/>sion to doe euill, yet you still re<g ref="char:EOLhyphen"/>tayne an affection and desire to sinne; death hath separated your soules from your bodies, but it hath not altered or changed the purpose &amp; desire of your soules.<note n="a" place="margin">Aug. in Psalm. <hi>50.</hi>
+                        </note>
+                        <hi>AEtas deseruit, non cupiditas,</hi> strength, age, and meanes may faile you, but your desire is the same, it neuer leaues you. There<g ref="char:EOLhyphen"/>fore, <hi>Away from mee, yee Hypo<g ref="char:EOLhyphen"/>crites:
+<pb n="75" facs="tcp:178351:42"/> Depart from mee, yee that worke vanitie, yee that worke iniquitie.</hi>
+                     </p>
+                     <p n="13">XIII.<note place="margin">The 13. Passage. Applica<g ref="char:EOLhyphen"/>tion.</note> Hence you may ga<g ref="char:EOLhyphen"/>ther, beloued, that it is not so much sinne, as continuing and lying in sinne, that bringeth dam<g ref="char:EOLhyphen"/>nation. O doe not then conti<g ref="char:EOLhyphen"/>nue and stand in the way of sin<g ref="char:EOLhyphen"/>ners, sit not in the chayre of pesti<g ref="char:EOLhyphen"/>lence, doe not <hi>commit sinne</hi> with full consent of will, doe not in<g ref="char:EOLhyphen"/>cline vnto wickednesse with your hearts, be not <hi>workers of iniquity.</hi> O yee, that loue the Lord, see that yee hate the thing which is euill, bee not like the prophane ones of this age, who follow all impietie, all vnrighteousnesse, all vncleanenesse with greedines, who drinke vp iniquitie like wa<g ref="char:EOLhyphen"/>ter. Be yee not like vnto them; doe not, by lying in sinne, make
+<pb n="76" facs="tcp:178351:43"/> the Grace of God become in vayne vnto you, doe not frustrate and euacuate vnto you the Crosse of Iesus Christ. Though through frailtie of the flesh, or temptati<g ref="char:EOLhyphen"/>on of the enemie, you may fall by sin in action; yet neuer enter<g ref="char:EOLhyphen"/>tayne sin in affection: Although you may haue the fact of sinne, yet neuer haue a purpose and will to sinne: but hate sinne with a perfect hatred, and as the sonne of <hi>Syrach</hi> saith, <hi>Flee from sinne as from a Serpent; the teeth thereof are as the teeth of a Lyon, to slay the soules of men.</hi>
+                     </p>
+                     <p>To the end you may not bee like vaine-glorious Hypocrites (who boast of prophecying, of casting out Deuils, and working Miracles, but indeede doe <hi>operari iniquitatem, worke iniquitie:</hi>) you must not onely remoue vice
+<pb n="77" facs="tcp:178351:43"/> out of the way, but in stead thereof intertayne vertue; you must not onely auoid sinne, but also intertayne grace: you must bring forth good fruit, being <hi>ar<g ref="char:EOLhyphen"/>bores iustitiae, Trees of righteous<g ref="char:EOLhyphen"/>nesse,</hi> as <hi>Esay</hi> speaks: being like the Tree planted by the water side, which (as that sweet Singer of Israel saith) bringeth forth fruit in due season. And to con<g ref="char:EOLhyphen"/>clude all in a word, I beseech you by the Crosse of our blessed LORD and SAVIOVR IESVS CHRIST; euer whilst you liue, be pious toward God, be righte<g ref="char:EOLhyphen"/>ous and charitable towards Men, be sober and temperate in your selues. And, as the Kingly Pro<g ref="char:EOLhyphen"/>phet exhorteth, <hi>Eschew euill, and doe good,</hi> perseuere therein vnto death, so shall you rest in the e<g ref="char:EOLhyphen"/>uerlasting Tabernacles, so shall
+<pb n="78" facs="tcp:178351:44"/> you dwell in the heauenly Ieru<g ref="char:EOLhyphen"/>salem, so shall you raigne in the Kingdome of Glorie with Christ, and an innumerable company of Angels and Saints, not for a time, but for euermore. <hi>Amen.</hi>
+                     </p>
+                  </div>
+                  <closer>Tri-vni Gloria.</closer>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
